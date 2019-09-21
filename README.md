@@ -1,4 +1,4 @@
-# Halting my real person fanfiction (fanfic)
+# Why I will continue to write my real person fanfiction (fanfic)
 
 I, Shlomi Fish, writer, software developer and amateur philosopher, will
 continue to write real person fanfiction despite people telling me I
