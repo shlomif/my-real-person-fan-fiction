@@ -185,7 +185,7 @@ high budget comic books movies with incompetent and unattractive actors who
 didn't have the sense and competence to become YouTubers, empty cinemas,
 and boring "original" films.
 
-If Taylor Swift was able to [depict](https://www.youtube.com/watch?v=QcIy9NiNbmo) her female friends and herself as badass modern day female warriors, and still continue to outsell her shows, so should Emma, or Gellar or Summer Glau, Megan Fox, Jennifer Lawrence, or Chuck Norris or Tom Cruize or countless other awesome action heroes who would prosper more as amateurs rather than in the increasingly money-hungry soul-sucking and mind destroying professional Hollywood who must be destroyed.
+If Taylor Swift was able to [depict](https://www.youtube.com/watch?v=QcIy9NiNbmo) her female friends and herself as badass modern day female warriors, and still continue to outsell her shows, so should Emma, or Gellar or Summer Glau, Megan Fox, Jennifer Lawrence, or Chuck Norris or Tom Cruise or countless other awesome action heroes who would prosper more as amateurs rather than in the increasingly money-hungry soul-sucking and mind destroying professional Hollywood who must be destroyed.
 
 Hasta la vista baby! We will be back.
 
