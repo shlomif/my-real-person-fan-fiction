@@ -181,11 +181,11 @@ terminator and Arnold trying to protect from her has awesome potential.
 Hollywood will soon be terminated as an inefficient and lazy olygopol with
 relatively few remaining active franchies, few remaining able and competent
 actors who quickly will follow suit, and a flood of indistinguishable
-high budget comics book movies with incompetent and unattractive actors who
+high budget comic books movies with incompetent and unattractive actors who
 didn't have the sense and competence to become YouTubers, empty cinemas,
 and boring "original" films.
 
-If Taylor Swift was able to [depict](https://www.youtube.com/watch?v=QcIy9NiNbmo) her female friends and herself as badass modern day female warriors, and still outsell her shows, so should Emma, or Gellar or Summer Glau, Megan Fox, Jennifer Lawrence, or Chuck Norris or Tom Cruize or countless other awesome action heroes who would prosper more as amateurs rather than in the increasingly money-hungry soul-sucking and mind destroying professional Hollywood who must be destroyed.
+If Taylor Swift was able to [depict](https://www.youtube.com/watch?v=QcIy9NiNbmo) her female friends and herself as badass modern day female warriors, and still continue to outsell her shows, so should Emma, or Gellar or Summer Glau, Megan Fox, Jennifer Lawrence, or Chuck Norris or Tom Cruize or countless other awesome action heroes who would prosper more as amateurs rather than in the increasingly money-hungry soul-sucking and mind destroying professional Hollywood who must be destroyed.
 
 Hasta la vista baby! We will be back.
 
