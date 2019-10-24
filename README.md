@@ -10,7 +10,10 @@ note why it may have been a blessing in disguise.
 I joked that my opinion on [The Technion](https://en.wikipedia.org/wiki/Technion_%E2%80%93_Israel_Institute_of_Technology), the University where I completed
 my EE B.Sc degree has become "untwitterable". The more I think about it seems
 that I think less highly of it, despite what some people told me that it
-wasn't a waste of time, and that I'll reminiscient about my studies.
+wasn't a waste of time, and that I'll reminiscient about my studies. Part of
+the problem was that I studied there only to get my B. Sc. in Electrical
+Engineering (while I'm not interested in electronics) which I wanted to
+gte more higher-paying jobs.
 
 I paid money to study there and the people whom were indirectly paid by me,
 while sometimes being helpful, often had limited time to help me, looked down
@@ -25,7 +28,7 @@ Paying and getting paid made the experience worse. This is the curse of professi
 Many years later, I started solving problems at [Project Euler](https://en.wikipedia.org/wiki/Project_Euler), one of many [competitive programming sites](https://github.com/EbookFoundation/free-programming-books/blob/master/problem-sets-competitive-programming.md). Since I had quite a bit of math and programming background,
 I did quite well at it having solved over 300 problems.
 I didn't have to pay but I voluntarily paid a small donation.
-I am still unhappy by the somewhat degraded UX, but am otherwise very happy.
+I am still unhappy by the somewhat degraded [user experience](https://en.wikipedia.org/wiki/User_experience), but am otherwise very content.
 
 Despite not paying or expecting to be paid, or rather because of it, I was
 met with gratitude, respect and admiration by the people I helped on
@@ -36,9 +39,17 @@ I was much happier as an amateur - someone who does what he do for fun,
 not to get paid. See http://paulgraham.com/opensource.html .
 
 Lately, by inspiration from a correspondent on a chat who mentioned
-someone's one line Resume, I wrote my ["I'm a Rock Star Resume"](https://www.shlomifish.org/me/resumes/Shlomi-Fish-Resume-as-Software-Dev.html) where I included only amateur achievements, including Project Euler and excluded the Technion. At first I thought it was because EE B.Sc. degrees are not notable enough. But then I realised: I wasn't proud of it. These were my most vexing, toxic, soul destroying, unproductive six years of my life. I regret doing it for greed of money.
+someone's one line Resume, I wrote my ["I'm a Rock Star
+Resume"](https://www.shlomifish.org/me/resumes/Shlomi-Fish-Resume-as-Software-Dev.html)
+where I included only amateur achievements, including Project Euler and
+excluded the Technion. At first I thought it was because EE B.Sc. degrees are
+not notable enough. But then I realised something else: I wasn't proud of it.
+These were my most vexing, toxic, soul destroying, unproductive six years of my
+life. I regret doing it for greed of money.
 
-That junkie stand up comedian whom I saw at a captioned twitter video was right: if you want to succeed as a writer, entertainer and amateur philosopher: don't work "hard".
+That junkie stand up comedian whom I saw at a captioned twitter video was
+right: if you want to succeed as a writer, entertainer and amateur philosopher:
+don't work "hard".
 
 ## Taylor Swift as an amateur
 
@@ -53,18 +64,19 @@ that she probably charges more than 300 USD/hour, but the fact of the matter
 she might perform even for free for something that is important to her
 because performing is fun. Her videos despite often being popular probably
 do not offset their production value in ads, but they are good publicity,
-provide fodder for remixes, parodies and covers, and are fun enough to produce so she can afford
-to offset the cost. She doesn't work for money or even for a shitload of
-money. She works for fun.
+provide fodder for remixes, parodies and covers, and are fun enough to produce
+so she can afford to offset the cost. She doesn't work for money or even for a
+shitload of money. She works for fun.
 
-There is likely a lot of fanfic, fanart, comments and idolisations of her
-on the Internet. She may not improve significantly but she can derive inspiration
-and comments from them, and even if she is criticised or held in contempt,
-she can either ignore that criticism or learn from it.
+There is likely a lot of fanfic, fanart, comments and idolisations of her on
+the Internet. She may not improve significantly but she can derive inspiration
+and comments from them, and even if she is criticised or held in contempt, she
+can either ignore that criticism or learn from it.
 
 If I wrote a Real Person Fanfic of Taylor Swift, she won't be harmed or care.
 If I depicted her figuratively "kicking the ass" of the NSA in [Summerschool at the NSA](https://www.shlomifish.org/humour/Summerschool-at-the-NSA/)
-it would not have harmed her reputation a dent and it may have even give her good publicity and even fodder for songs or videos.
+it would not have harmed her reputation a dent and it may have even give her
+good publicity and even fodder for songs or videos.
 
 As an amateur it would not have harmed her, and I would not have been
 considered a villain.
@@ -78,45 +90,49 @@ actresses who seemed invaluable for that due to previous associations I had, and
 while their acting careers were already on the brink of termination, and I
 depicted them positively, likely may have sealed the envelope on both of their
 Hollywood careers. But it was probably the best for both, because the Hollywood
-professionals were already intimidated by them, and they could be more productive as non-acting non-professionals activists. Why?
+professionals were already intimidated by them, and they could be more
+productive as non-acting non-professionals activists. Why?
 
 Because they are professionals. The better they played, the more they were
 scorned and maligned and given poor roles by other jealous professional movie
 makers who were jealous of their competency and elevated perception by amateur
 fans who knew better. There is a whole [YouTube search about why Hollywood cannot cast X anymore](https://twitter.com/shlomif/status/1174571159372935168) but
-it is the same old story. To paraphrase on an old Star Trek (the original
-series)
+it is the same old story. To paraphrase on an old [Star Trek (the original
+series)](https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series)
 quote: "it does not happen some of the time. It happens all the time."
 
 But in the music industry it never happens. It will be very preposterous to
-hear "Why no one will hear The Beatles anymore.". Even though
-[Christina Grimmie](https://en.wikipedia.org/wiki/Christina_Grimmie) was killed
-(in part due to her own mismanagement), and I was shocked and saddened by that,
-her songs are still popular and if I
-now rewrote my screenplay depicting her as a super intelligent and resourceful female who
-kicks the ass of the NSA, people will think I am helping keep her legacy
-alive and rever me for it.
+hear "Why no one will hear The Beatles anymore.". Even though [Christina
+Grimmie](https://en.wikipedia.org/wiki/Christina_Grimmie) was killed (in part
+due to her own mismanagement), and I was shocked and saddened by that, her
+songs are still popular and if I now rewrote my screenplay depicting her as a
+super intelligent and resourceful female who kicks the ass of the NSA, people
+will think I am helping keep her legacy alive and rever me for it.
 
 ## JK Roling vs. Me
 
 I want to become the next big writer, but I want to remain writing for fun,
 publishing for free on my site under Creative Commons licences, and writing
-mostly fanfic or even real person fiction. People feel sorry for JK Roling for being a professional, despite her being a millionaire.
+mostly fanfic or even real person fiction. People feel sorry for JK Roling for
+being a professional, despite her being a millionaire.
 
 But people either love my work, respect me or even think I'm prepostorous or blasphemous
 (which indicates I may be right - http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/ ). People would cringe at reading the Harry
 Potter books now ("TL;DR") but many of my old stories, aphorisms or factoids are
 still funny and fresh.
 
-You may not know who she is but https://twitter.com/EmmaWatson is the most
-highly paid actress in Hollywood, famous for having played Hermione in the
-Harry Potter films. It makes her comparable to https://en.wikipedia.org/wiki/Arnold_Schwarzenegger who also was paid well.
+You may not know who she is but [Emma Watson](https://twitter.com/EmmaWatson)
+is the most highly paid actress in Hollywood, famous for having played Hermione
+in the Harry Potter films. It makes her comparable to
+[Arnold Schwarzenegger](https://en.wikipedia.org/wiki/Arnold_Schwarzenegger) who also was paid well.
 
 But it's not as if she is the new Arnold
-Schwarzenegger. Instead, Arnold Schwarzenegger is the old Emma Watson!
+Schwarzenegger. Instead, Arnold Schwarzenegger will forever be remembered as
+the old Emma Fuckin’ Watson!
+
 Poor Emma. Why do we feel sorry for her?
 
-Let me try it again. It's not as if Taylor Swift was the new Madonna. In fact,
+Let me try it again. It's not as if Taylor Swift is the new Madonna. In fact,
 Swift is the new Socrates! I'm sure Ms. Swift will approve of the new Taylor
 Swift factoid.
 
@@ -134,13 +150,22 @@ or even by Taylor Swift even though all three are wonderful singers.
 
 Actors should become amateurs and work for fun on amateur films they like by
 amateur writers who like me write mainly fanfic and often crossovers and even
-real person fiction. As much as I like Kermit the Frog or Lucky Luke they
+real person fiction. As much as I like Kermit the Frog and Lucky Luke they
 should star along [Chuck Norris and Summer Glau](https://www.shlomifish.org/humour/Muppets-Show-TNI/Summer-Glau-and-Chuck-Norris.html) because they are equally
 awesome even if real.
 
+In Ancient times, most philosophers were entertainers who collected donation
+money after their performances and in fact were closer to today’s entertainers
+rather than the ivory tower professional philosophers. See:
+
+* [Mel Brooks' Stand up philospher](https://www.youtube.com/watch?v=oBIxGjSHzF8)
+* [Peter Ustinov: "If Botticelli were alive today he'd be working for Vogue"](https://www.brainyquote.com/quotes/peter_ustinov_161259)
+* [If Ayn Rand was born in the 1990s she would be Christina Grimmie](https://www.shlomifish.org/humour.html#if_ayn_rand_was_born_in_the_1990s)
+* [ESR's post about why most classical music is a bunch of museum pieces](http://esr.ibiblio.org/?p=4229)
+
 Chuck Norris and Bruce Lee are the last in line of master professional warriors
 (believed to have passed through [Saladin](http://shlomifishswiki.branchable.com/Saladin_Style/) himself - one of the greatest and most underrated hackers of all time)
-but I believe some of the newer amateur MMA fighters could have defeated even Bruce Lee.
+but I believe some of the newer amateur [MMA](https://en.wikipedia.org/wiki/Mixed_martial_arts) amateurs fighters could have defeated even Bruce Lee.
 
 Former professional actors like Emma Watson, Sarah Michelle Gellar, Summer
 Glau, and Chuck Norris, who the better they become the more they were resented,
@@ -149,7 +174,7 @@ they were professionals and were paid money.
 
 It is possible that the reason it seems like [Chuck Norris Facts](https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/) have made a comeback
 recently is because Norris has decided to play in roles he liked, even if he
-got paid little. He became a happy and respected amateur.
+got paid little or not at all. He became a happy and respected amateur.
 
 But for now I'll write my real person fic on singers and YouTube musicians.
 I already have one more factoid about Taylor Swift and there likely will be more.
@@ -175,17 +200,35 @@ on YouTube. Many awesome male and female actor hackers who used to be household
 names but are now unhireable for becoming too competent, honest and intimidating,
 will follow suit.
 
-As inconceivable as it is I think a Terminator spoof with Watson as the evil
-terminator and Arnold trying to protect from her has awesome potential.
+She might opt to make the material available first under restrictive licences
+such as [CC-by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+or even [All rights reserved](https://en.wikipedia.org/wiki/All_rights_reserved)
+and ask to collect "ransom" money to make it [CC-by](https://creativecommons.org/licenses/by/4.0/) or even [CC0 / Public Domain](https://creativecommons.org/choose/zero/). She might give access to large data files and high quality videos for a pay or sell high quality collectors sets (like [Ghosts I-IV](https://en.wikipedia.org/wiki/Ghosts_I%E2%80%93IV)).
+
+As inconceivable as it is I think a [Terminator](https://en.wikipedia.org/wiki/Terminator_%28franchise%29) spoof with Watson as the evil
+terminator and Arnold trying to protect from her has a great potential.
+And I already have written crossovers starring her in anything from
+[an attack of the software industry's hiring process](https://www.shlomifish.org/humour/bits/Emma-Watson-applying-for-a-software-dev-job/),
+[a Harry Potter and Sesame Street crossover](https://www.shlomifish.org/humour/Muppets-Show-TNI/Harry-Potter.html) (along with [the Donkey from Shrek](https://shrek.fandom.com/wiki/Donkey), [The Miller, his son and the donkey](https://en.wikipedia.org/wiki/The_miller%2C_his_son_and_the_donkey), a hack/update of ["All you need is love"](https://www.reddit.com/r/Songwriters/comments/2aj4p4/do_it_all_with_love_modernisation_hack_of_the/) ),
+as well as naturally [Selina](https://www.shlomifish.org/humour/Selina-Mandrake/cast.html) which is a self-concious parody of Buffy, mashed up with Judaism and Israelism, as well as [Star Trek DS9](https://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine), [The Princess Bride](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29), and [The Three Musketeers](https://en.wikipedia.org/wiki/The_Three_Musketeers).
 
 Hollywood will soon be terminated as an inefficient and lazy olygopol with
 relatively few remaining active franchies, few remaining able and competent
 actors who quickly will follow suit, and a flood of indistinguishable
 high budget comic books movies with incompetent and unattractive actors who
 didn't have the sense and competence to become YouTubers, empty cinemas,
-and boring "original" films.
+and boring "original" films. Either that or it too will convert to the
+amateur and ["open"](https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/) model, which like the signed artists labels
+of the [RIAA](https://en.wikipedia.org/wiki/Recording_Industry_Association_of_America)
+mostly get out of the way, and while still sometimes censors YouTube videos.
 
-If Taylor Swift was able to [depict](https://www.youtube.com/watch?v=QcIy9NiNbmo) her female friends and herself as badass modern day female warriors, and still continue to outsell her shows, so should Emma, or Gellar or Summer Glau, Megan Fox, Jennifer Lawrence, or Chuck Norris or Tom Cruise or countless other awesome action heroes who would prosper more as amateurs rather than in the increasingly money-hungry soul-sucking and mind destroying professional Hollywood who must be destroyed.
+If Taylor Swift was able to
+[depict](https://www.youtube.com/watch?v=QcIy9NiNbmo) her female friends and
+herself as badass modern day female warriors, and still continue to outsell her
+shows, so should Emma, or Gellar or Summer Glau, Megan Fox, Jennifer Lawrence,
+or Chuck Norris or Tom Cruise or countless other awesome action heroes who
+would prosper more as amateurs rather than in the increasingly money-hungry
+soul-sucking and mind destroying professional Hollywood who must be destroyed.
 
 Hasta la vista baby! We will be back.
 
