@@ -225,10 +225,12 @@ mostly get out of the way, and while still sometimes censors YouTube videos.
 If Taylor Swift was able to
 [depict](https://www.youtube.com/watch?v=QcIy9NiNbmo) her female friends and
 herself as badass modern day female warriors, and still continue to outsell her
-shows, so should Emma, or Gellar or Summer Glau, Megan Fox, Jennifer Lawrence,
-or Chuck Norris or Tom Cruise or countless other awesome action heroes who
+shows, so should [Emma](https://www.shlomifish.org/humour/bits/facts/Emma-Watson/), or [Gellar](https://en.wikipedia.org/wiki/Sarah_Michelle_Gellar), or [Summer Glau](https://www.shlomifish.org/humour/bits/facts/Summer-Glau/), or [Megan Fox](https://en.wikipedia.org/wiki/Megan_Fox), [Jennifer Lawrence](https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/),
+or [Chuck Norris](https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/) or
+[Tom Cruise](https://en.wikipedia.org/wiki/Tom_Cruise) or countless other
+awesome action heroes who
 would prosper more as amateurs rather than in the increasingly money-hungry
-soul-sucking and mind destroying professional Hollywood who must be destroyed.
+soul-sucking and mind destroying professional Hollywood.
 
 Hasta la vista baby! We will be back.
 
