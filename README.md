@@ -1,9 +1,8 @@
 # Why I will continue to write my real person fanfiction (fanfic)
 
 I, Shlomi Fish, writer, software developer and amateur philosopher, will
-continue to write real person fanfiction despite people telling me I
-must not. However, I'd like to
-note why it may have been a blessing in disguise.
+continue to write real person fanfiction despite people telling me I must not.
+However, I'd like to note why it may have been a blessing in disguise.
 
 # The Technion vs. Project Euler
 
@@ -41,7 +40,7 @@ not to get paid. See http://paulgraham.com/opensource.html .
 
 Lately, by inspiration from a correspondent on a chat who mentioned
 someone's one line Resume, I wrote my ["I'm a Rock Star
-Resume"](https://www.shlomifish.org/me/resumes/Shlomi-Fish-Resume-as-Software-Dev.html)
+Résumé"](https://www.shlomifish.org/me/resumes/Shlomi-Fish-Resume-as-Software-Dev.html)
 where I included only amateur achievements, including Project Euler and
 excluded the Technion. At first I thought it was because EE B.Sc. degrees are
 not notable enough. But then I realised something else: I wasn't proud of it.
@@ -54,20 +53,20 @@ don't work "hard".
 
 ## Taylor Swift as an amateur
 
-Someone on freenode complained how much he disliked [Apple's Swift](https://en.wikipedia.org/wiki/Swift_(programming_language))
-programming language
-(which you may not have heard of) and I suggested he charge more - maybe 300
-USD / hour - which he said no one can afford. Its name reminded me of
-[Taylor Swift](https://en.wikipedia.org/wiki/Taylor_Swift) - a successful
-and popular singer, who has many videos on YouTube, some of which I am fond
-of and which many people praise. You probably heard of her. Now, I told him
-that she probably charges more than 300 USD/hour, but the fact of the matter
-she might perform even for free for something that is important to her
-because performing is fun. Her videos despite often being popular probably
-do not offset their production value in ads, but they are good publicity,
-provide fodder for remixes, parodies and covers, and are fun enough to produce
-so she can afford to offset the cost. She doesn't work for money or even for a
-shitload of money. She works for fun.
+Someone on freenode complained how much he disliked [Apple's
+Swift](https://en.wikipedia.org/wiki/Swift_(programming_language)) programming
+language (which you may not have heard of) and I suggested he charge more -
+maybe 300 USD / hour - which he said no one can afford. Its name reminded me of
+[Taylor Swift](https://en.wikipedia.org/wiki/Taylor_Swift) - a successful and
+popular singer, who has many videos on YouTube, some of which I am fond of and
+which many people praise. You probably heard of her. Now, I told him that she
+probably charges more than 300 USD/hour, but the fact of the matter she might
+perform even for free for something that is important to her because performing
+is fun. Her videos, despite often being popular, probably do not offset their
+production value in YouTube ads. But they are good publicity, provide fodder
+for remixes, parodies and covers, and are fun enough to produce so she can
+afford to sustain the cost. She doesn't work for money or even for a shitload of
+money. She works for fun.
 
 There is likely a lot of fanfic, fanart, comments and idolisations of her on
 the Internet. She may not improve significantly but she can derive inspiration
@@ -75,9 +74,10 @@ and comments from them, and even if she is criticised or held in contempt, she
 can either ignore that criticism or learn from it.
 
 If I wrote a Real Person Fanfic of Taylor Swift, she won't be harmed or care.
-If I depicted her figuratively "kicking the ass" of the NSA in [Summerschool at the NSA](https://www.shlomifish.org/humour/Summerschool-at-the-NSA/)
-it would not have harmed her reputation a dent and it may have even give her
-good publicity and even fodder for songs or videos.
+If I depicted her figuratively "kicking the ass" of the NSA in [Summerschool at
+the NSA](https://www.shlomifish.org/humour/Summerschool-at-the-NSA/) it would
+not have harmed her reputation a dent and it may have even give her good
+publicity and even fodder for songs or videos.
 
 As an amateur it would not have harmed her, and I would not have been
 considered a villain.
@@ -86,11 +86,13 @@ But I did not.
 
 ## Sarah Michelle Gellar and Summer Glau
 
-Instead I sent the actresses [Sarah Michelle Gellar](https://en.wikipedia.org/wiki/Sarah_Michelle_Gellar), and [Summer Glau](https://en.wikipedia.org/wiki/Summer_Glau), two
-actresses who seemed invaluable for that due to previous associations I had, and
-while their acting careers were already on the brink of termination, and I
-depicted them positively, likely may have sealed the envelope on both of their
-Hollywood careers. But it was probably the best for both, because the Hollywood
+Instead I sent the actresses [Sarah Michelle
+Gellar](https://en.wikipedia.org/wiki/Sarah_Michelle_Gellar), and [Summer
+Glau](https://en.wikipedia.org/wiki/Summer_Glau), two actresses who seemed
+invaluable for that due to previous associations I had, and while their acting
+careers were already on the brink of termination, and I depicted them
+positively, likely may have sealed the envelope on both of their Hollywood
+careers. But it was probably the best for both, because the Hollywood
 professionals were already intimidated by them, and they could be more
 productive as non-acting non-professionals activists. Why?
 
@@ -122,7 +124,7 @@ But people either love my work, respect me or even think I'm prepostorous or bla
 Potter books now ("TL;DR") but many of my old stories, aphorisms or factoids are
 still funny and fresh.
 
-You may not know who she is but [Emma Watson](https://twitter.com/EmmaWatson)
+[Emma Watson](https://twitter.com/EmmaWatson)
 is the most highly paid actress in Hollywood, famous for having played Hermione
 in the Harry Potter films. It makes her comparable to
 [Arnold Schwarzenegger](https://en.wikipedia.org/wiki/Arnold_Schwarzenegger) who also was paid well.
@@ -167,24 +169,26 @@ rather than the ivory tower professional philosophers. See:
 
 Chuck Norris and Bruce Lee are the last in line of master professional warriors
 (believed to have passed through [Saladin](http://shlomifishswiki.branchable.com/Saladin_Style/) himself - one of the greatest and most underrated hackers of all time)
-but I believe some of the newer amateur [MMA](https://en.wikipedia.org/wiki/Mixed_martial_arts) amateur fighters could have defeated even Bruce Lee.
+but I believe some of the newer amateur [Mixed Martial Arts (MMA)](https://en.wikipedia.org/wiki/Mixed_martial_arts) fighters could have defeated even Bruce Lee.
 
-Former professional actors like Emma Watson, Sarah Michelle Gellar, Summer
-Glau, and Chuck Norris, who the better they become the more they were resented,
-hated, envied and mistreated, until it hit their breaking point. Simply because
+The better the former professional actors like Emma Watson, Sarah Michelle
+Gellar, Summer Glau, and Chuck Norris had become the more they were resented,
+hated, envied and mistreated. Until it hit their breaking point and they got
+angry and burst in rage against their mistreatment. Simply because
 they were professionals and worked for as much money as possible.
 
 It is possible that the reason it seems like the [Chuck Norris Facts](https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/) have made a comeback
 recently is because Norris has decided to play in roles he liked, even if he
 got paid little or not at all or was paid after the fact. He became a happy and
 respected amateur. I won't be surprised if he sometimes agrees to star in
-local school plays, or otherwise star in roles that seemed almost completely
+local school plays, or otherwise star in roles that may seem almost completely
 unlike his traditional Hollywood image.
 
 But for now I'll write my real person fic on singers and YouTube musicians.
 I already have one more factoid about Taylor Swift and there likely will be more.
 And I assure you that for a long time you won't see a youtube video "Why people
-won't listen to Taylor Swift's songs again?" Poor Taylor! I'm sure she won't survive reading this Taylor Swift Factoid, and sue me immediately.
+won't listen to Taylor Swift's songs again?" Poor Taylor! I'm sure she won't
+survive reading this Taylor Swift Factoid, and sue me immediately.
 
 # Emma Watson
 
@@ -197,15 +201,14 @@ fought Goliath</a>, [the Indiana Jones gun scene](https://www.youtube.com/watch?
 break the rules to carve her unique destiny.
 
 She will give hollywood the fat finger and start producing fan screenplays (in
-any conceivable format not only the overly strict and pedantic hollywood screenplay
-format) that she will sponsor out of her own pocket and depict her as the sexy,
-competent, badass ass-kicker that she and her fans know she is rather than her
-traditional sheepish and recessive (but not quite) [Hermione
+any conceivable format not only the overly strict and pedantic hollywood
+screenplay format) that she will sponsor out of her own pocket and depict her
+as the sexy, competent, badass ass-kicker that she and her fans know she is
+rather than her traditional sheepish and recessive (but not quite) [Hermione
 Granger](https://harrypotter.fandom.com/wiki/Hermione_Granger) image, and these
-videos will be available free of charge
-on YouTube. Many awesome male and female actor hackers who used to be household
-names but are now unhireable for becoming too competent, honest and intimidating,
-will follow suit.
+videos will be available free of charge on YouTube. Many awesome male and
+female actor hackers who used to be household names but are now unhireable for
+becoming too competent, honest and intimidating, will follow suit.
 
 She might opt to make the material available first under restrictive licences
 such as [CC-by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/4.0/)
@@ -216,7 +219,7 @@ As inconceivable as it is I think a [Terminator](https://en.wikipedia.org/wiki/T
 terminator and Arnold trying to protect from her has a great potential.
 And I already have written crossovers starring her in anything from
 an [attack of the software industry's hiring process](https://www.shlomifish.org/humour/bits/Emma-Watson-applying-for-a-software-dev-job/),
-a [Harry Potter and Sesame Street crossover](https://www.shlomifish.org/humour/Muppets-Show-TNI/Harry-Potter.html) (along with [the Donkey from Shrek](https://shrek.fandom.com/wiki/Donkey), [The Miller, his son and the donkey](https://en.wikipedia.org/wiki/The_miller%2C_his_son_and_the_donkey), a hack/update of ["All you need is love"](https://www.reddit.com/r/Songwriters/comments/2aj4p4/do_it_all_with_love_modernisation_hack_of_the/) ),
+to a [Harry Potter and Sesame Street crossover](https://www.shlomifish.org/humour/Muppets-Show-TNI/Harry-Potter.html) (along with [the Donkey from Shrek](https://shrek.fandom.com/wiki/Donkey), [The Miller, his son and the donkey](https://en.wikipedia.org/wiki/The_miller%2C_his_son_and_the_donkey), and a hack/update of ["All you need is love"](https://www.reddit.com/r/Songwriters/comments/2aj4p4/do_it_all_with_love_modernisation_hack_of_the/) ),
 as well as naturally [Selina](https://www.shlomifish.org/humour/Selina-Mandrake/cast.html) which is a self-concious parody of Buffy, mashed up with Judaism and Israelism, as well as [Star Trek DS9](https://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine), [The Princess Bride](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29), and [The Three Musketeers](https://en.wikipedia.org/wiki/The_Three_Musketeers).
 
 Hollywood will soon be terminated as an inefficient and lazy olygopol with
