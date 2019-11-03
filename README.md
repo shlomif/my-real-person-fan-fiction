@@ -200,8 +200,8 @@ professional film makers and critics. But like great action heroes (or
 fought Goliath</a>, [the Indiana Jones gun scene](https://www.youtube.com/watch?v=7YyBtMxZgQs) or the [trailer for “Hamlet” starring Arnold Schwarzenegger](https://www.youtube.com/watch?v=9Eont_yEGZs) she will not accept her fate and bend and
 break the rules to carve her unique destiny.
 
-She will give hollywood the fat finger and start producing fan screenplays (in
-any conceivable format not only the overly strict and pedantic hollywood
+She will give Hollywood the fat finger and start producing fan screenplays (in
+any conceivable format not only the overly strict and pedantic Hollywood
 screenplay format) that she will sponsor out of her own pocket and depict her
 as the sexy, competent, badass ass-kicker that she and her fans know she is
 rather than her traditional sheepish and recessive (but not quite) [Hermione
