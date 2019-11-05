@@ -1,10 +1,12 @@
 # Why I will continue to write my real person fanfiction (fanfic)
 
+## TL;DR Summary
+
 I, Shlomi Fish, writer, software developer and amateur philosopher, will
 continue to write real person fanfiction despite people telling me I must not.
 However, I'd like to note why it may have been a blessing in disguise.
 
-# The Technion vs. Project Euler
+## The Technion vs. Project Euler
 
 I joked that my opinion on [The Technion](https://en.wikipedia.org/wiki/Technion_%E2%80%93_Israel_Institute_of_Technology), the University where I completed
 my EE B.Sc degree has become "untwitterable". The more I think about it,
@@ -105,10 +107,11 @@ series)](https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series)
 quote: "it does not happen some of the time. It happens all the time."
 
 But in the music industry it never happens. It will be very preposterous to
-hear "Why no one will hear The Beatles anymore.". Even though [Christina
+ever see a YouTube feature "Why no one listens to the songs of The Beatles anymore.".
+Moreover, even though [Christina
 Grimmie](https://en.wikipedia.org/wiki/Christina_Grimmie) was killed (in part
 due to her own mismanagement), and I was shocked and saddened by that, her
-songs are still popular and if I now rewrote my screenplay depicting her as a
+songs are still popular. If I now rewrote my screenplay depicting her as a
 super intelligent and resourceful female who kicks the ass of the NSA, people
 will think I am helping keep her legacy alive and rever me for it.
 
@@ -127,7 +130,8 @@ still funny and fresh.
 [Emma Watson](https://twitter.com/EmmaWatson)
 is the most highly paid actress in Hollywood, famous for having played Hermione
 in the Harry Potter films. It makes her comparable to
-[Arnold Schwarzenegger](https://en.wikipedia.org/wiki/Arnold_Schwarzenegger) who also was paid well.
+[Arnold Schwarzenegger](https://en.wikipedia.org/wiki/Arnold_Schwarzenegger)
+who also used to be the highest paid actor.
 
 But it's not as if she is the new Arnold
 Schwarzenegger. Instead, Arnold Schwarzenegger will forever be remembered as
@@ -143,20 +147,24 @@ It does not have to be this way.
 
 ## Actors are not replaceable
 
-Jewel Staite [testified](https://www.reddit.com/r/IAmA/comments/2e3t1f/jewel_staite_ama/cjvt8t9/) that only she and Summer Glau could have played their
-characters on Firefly. Similarly I am more and more convinced that only
-Emma Watson can play Selina on [Selina-Mandrake](https://www.shlomifish.org/humour/Selina-Mandrake/) but I'd like her to do it for fun and work for relatively
-little. It will be prepostorous to assume that the late Christina Grimmie can
-ever be
-replaced by her YouTuber colleague [Tiffany Alvord](https://en.wikipedia.org/wiki/Tiffany_Alvord)
-or even by Taylor Swift, despite the fact that all three were or are wonderful
-singers.
+Jewel Staite
+[testified](https://www.reddit.com/r/IAmA/comments/2e3t1f/jewel_staite_ama/cjvt8t9/)
+that only she and Summer Glau could have played their characters on Firefly.
+Similarly I am more and more convinced that only Emma Watson can play Selina on
+[my *Selina Mandrake - The Slayer*](https://www.shlomifish.org/humour/Selina-Mandrake/)
+screenplay but I'd
+like her to do it for fun and work for relatively little. It will be
+prepostorous to assume that the late Christina Grimmie can ever be replaced by
+her YouTuber colleague [Tiffany
+Alvord](https://en.wikipedia.org/wiki/Tiffany_Alvord) or even by Taylor Swift,
+despite the fact that all three were or are wonderful singers.
 
 Actors should become amateurs and work for fun on amateur films they like by
 amateur writers who like me write mainly fanfic and often crossovers and even
 real person fiction. As much as I like Kermit the Frog and Lucky Luke they
-should star along [Chuck Norris and Summer Glau](https://www.shlomifish.org/humour/Muppets-Show-TNI/Summer-Glau-and-Chuck-Norris.html) because they are equally
-awesome even if real.
+should star along [Chuck Norris and Summer
+Glau](https://www.shlomifish.org/humour/Muppets-Show-TNI/Summer-Glau-and-Chuck-Norris.html)
+because they are equally awesome even if real.
 
 In Ancient times, most philosophers were entertainers who collected donation
 money after their performances and in fact were closer to today’s entertainers
@@ -168,8 +176,12 @@ rather than the ivory tower professional philosophers. See:
 * [ESR's post about why most classical music is a bunch of museum pieces](http://esr.ibiblio.org/?p=4229)
 
 Chuck Norris and Bruce Lee are the last in line of master professional warriors
-(believed to have passed through [Saladin](http://shlomifishswiki.branchable.com/Saladin_Style/) himself - one of the greatest and most underrated hackers of all time)
-but I believe some of the newer amateur [Mixed Martial Arts (MMA)](https://en.wikipedia.org/wiki/Mixed_martial_arts) fighters could have defeated even Bruce Lee.
+(believed to have passed through
+[Saladin](http://shlomifishswiki.branchable.com/Saladin_Style/) himself - one
+of the greatest and most underrated hackers of all time) but I believe some of
+the newer amateur [Mixed Martial Arts
+(MMA)](https://en.wikipedia.org/wiki/Mixed_martial_arts) fighters could have
+defeated even Bruce Lee.
 
 The better the former professional actors like Emma Watson, Sarah Michelle
 Gellar, Summer Glau, and Chuck Norris had become the more they were resented,
@@ -177,12 +189,13 @@ hated, envied and mistreated. Until it hit their breaking point and they got
 angry and burst in rage against their mistreatment. Simply because
 they were professionals and worked for as much money as possible.
 
-It is possible that the reason it seems like the [Chuck Norris Facts](https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/) have made a comeback
-recently is because Norris has decided to play in roles he liked, even if he
-got paid little or not at all or was paid after the fact. He became a happy and
-respected amateur. I won't be surprised if he sometimes agrees to star in
-local school plays, or otherwise star in roles that may seem almost completely
-unlike his traditional Hollywood image.
+It is possible that the reason it seems like the [Chuck Norris
+Facts](https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/) have made a
+comeback recently is because Norris has decided to play in roles he liked, even
+if he got paid little or not at all or was paid after the fact. He became a
+happy and respected amateur. I won't be surprised if he sometimes agrees to
+star in local school plays, or otherwise star in roles that may seem almost
+completely unlike his traditional Hollywood image.
 
 But for now I'll write my real person fic on singers and YouTube musicians.
 I already have one more factoid about Taylor Swift and there likely will be more.
@@ -193,12 +206,15 @@ survive reading this Taylor Swift Factoid, and sue me immediately.
 # Emma Watson
 
 Emma Watson is no longer hireable in Hollywood despite the fact that all her
-films were commercial successes. And it's because she too
-became far too powerful and competent for the incompetent and envious
-professional film makers and critics. But like great action heroes (or
-"hackers") of the past like <a href="https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/#david_and_goliath">David who
-fought Goliath</a>, [the Indiana Jones gun scene](https://www.youtube.com/watch?v=7YyBtMxZgQs) or the [trailer for “Hamlet” starring Arnold Schwarzenegger](https://www.youtube.com/watch?v=9Eont_yEGZs) she will not accept her fate and bend and
-break the rules to carve her unique destiny.
+films were commercial successes. And it's because she too became far too
+powerful and competent for the incompetent and envious professional film makers
+and critics. But like great action heroes (or "hackers") of the past like <a
+href="https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/#david_and_goliath">David
+who fought Goliath</a>, [the Indiana Jones gun
+scene](https://www.youtube.com/watch?v=7YyBtMxZgQs) or the [trailer for
+“Hamlet” starring Arnold
+Schwarzenegger](https://www.youtube.com/watch?v=9Eont_yEGZs) she will not
+accept her fate and bend and break the rules to carve her unique destiny.
 
 She will give Hollywood the fat finger and start producing fan screenplays (in
 any conceivable format not only the overly strict and pedantic Hollywood
@@ -210,38 +226,73 @@ videos will be available free of charge on YouTube. Many awesome male and
 female actor hackers who used to be household names but are now unhireable for
 becoming too competent, honest and intimidating, will follow suit.
 
-She might opt to make the material available first under restrictive licences
-such as [CC-by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-or even [All rights reserved](https://en.wikipedia.org/wiki/All_rights_reserved)
-and ask to collect "ransom" money to make it [CC-by](https://creativecommons.org/licenses/by/4.0/) or even [CC0 / Public Domain](https://creativecommons.org/choose/zero/). She might give access to large data files and high quality videos for a pay or sell high quality collectors sets (like [Ghosts I-IV](https://en.wikipedia.org/wiki/Ghosts_I%E2%80%93IV)).
+She might opt to make the material available first under relatively restrictive
+licences such as
+[CC-by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/4.0/) or even [All
+rights reserved](https://en.wikipedia.org/wiki/All_rights_reserved) and ask to
+collect "ransom" money to make it
+[CC-by](https://creativecommons.org/licenses/by/4.0/) or even [CC0 / Public
+Domain](https://creativecommons.org/choose/zero/). She might give access to
+large data files and high quality videos for a pay or sell high quality
+collectors sets (like [Ghosts
+I-IV](https://en.wikipedia.org/wiki/Ghosts_I%E2%80%93IV)).
 
-As inconceivable as it is I think a [Terminator](https://en.wikipedia.org/wiki/Terminator_%28franchise%29) spoof with Watson as the evil
-terminator and Arnold trying to protect from her has a great potential.
-And I already have written crossovers starring her in anything from
-an [attack of the software industry's hiring process](https://www.shlomifish.org/humour/bits/Emma-Watson-applying-for-a-software-dev-job/),
-to a [Harry Potter and Sesame Street crossover](https://www.shlomifish.org/humour/Muppets-Show-TNI/Harry-Potter.html) (along with [the Donkey from Shrek](https://shrek.fandom.com/wiki/Donkey), [The Miller, his son and the donkey](https://en.wikipedia.org/wiki/The_miller%2C_his_son_and_the_donkey), and a hack/update of ["All you need is love"](https://www.reddit.com/r/Songwriters/comments/2aj4p4/do_it_all_with_love_modernisation_hack_of_the/) ),
-as well as naturally [Selina](https://www.shlomifish.org/humour/Selina-Mandrake/cast.html) which is a self-concious parody of Buffy, mashed up with Judaism and Israelism, as well as [Star Trek DS9](https://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine), [The Princess Bride](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29), and [The Three Musketeers](https://en.wikipedia.org/wiki/The_Three_Musketeers).
+As inconceivable as it is I think a
+[Terminator](https://en.wikipedia.org/wiki/Terminator_%28franchise%29) spoof
+with Watson as the evil terminator and Arnold trying to protect from her has a
+great potential.  And I already have written crossovers starring her in
+anything from an [attack of the software industry's hiring
+process](https://www.shlomifish.org/humour/bits/Emma-Watson-applying-for-a-software-dev-job/),
+to a [Harry Potter and Sesame Street
+crossover](https://www.shlomifish.org/humour/Muppets-Show-TNI/Harry-Potter.html)
+(along with [the Donkey from Shrek](https://shrek.fandom.com/wiki/Donkey), [The
+Miller, his son and the
+donkey](https://en.wikipedia.org/wiki/The_miller%2C_his_son_and_the_donkey),
+and a hack/update of ["All you need is
+love"](https://www.reddit.com/r/Songwriters/comments/2aj4p4/do_it_all_with_love_modernisation_hack_of_the/)
+), as well as naturally
+[Selina](https://www.shlomifish.org/humour/Selina-Mandrake/cast.html) which is
+a self-concious parody of Buffy, mashed up with Judaism and Israelism, as well
+as [Star Trek DS9](https://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine),
+[The Princess
+Bride](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29), and [The
+Three Musketeers](https://en.wikipedia.org/wiki/The_Three_Musketeers).
 
 Hollywood will soon be terminated as an inefficient and lazy olygopol with
 relatively few remaining active franchies, few remaining able and competent
-actors who quickly will follow suit, and a flood of indistinguishable
-high budget comic books movies with incompetent and unattractive actors who
-didn't have the sense and competence to become YouTubers, empty cinemas,
-and boring "original" films. Either that or it too will convert to the
-amateur and ["open"](https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/) model, which like the signed artists labels
-of the [RIAA](https://en.wikipedia.org/wiki/Recording_Industry_Association_of_America)
+actors who quickly will follow suit, and a flood of indistinguishable high
+budget comic books movies with incompetent and unattractive actors who didn't
+have the sense and competence to become YouTubers, empty cinemas, and boring
+"original" films. Either that or it too will convert to the amateur and
+["open"](https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/)
+model, which like the signed artists labels of the
+[RIAA](https://en.wikipedia.org/wiki/Recording_Industry_Association_of_America)
 mostly get out of the way.
 
 If Taylor Swift was able to
 [depict](https://www.youtube.com/watch?v=QcIy9NiNbmo) her female friends and
 herself as badass modern day female warriors, and still continue to outsell her
-shows, so should [Emma](https://www.shlomifish.org/humour/bits/facts/Emma-Watson/), or [Gellar](https://en.wikipedia.org/wiki/Sarah_Michelle_Gellar), or [Summer Glau](https://www.shlomifish.org/humour/bits/facts/Summer-Glau/), or [Megan Fox](https://en.wikipedia.org/wiki/Megan_Fox), [Jennifer Lawrence](https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/),
-or [Chuck Norris](https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/) or
-[Tom Cruise](https://en.wikipedia.org/wiki/Tom_Cruise) or countless other
-awesome action heroes who
-would prosper more as amateurs rather than in the increasingly money-hungry
-soul-sucking and mind destroying professional Hollywood.
+shows, so should
+[Emma](https://www.shlomifish.org/humour/bits/facts/Emma-Watson/), or
+[Gellar](https://en.wikipedia.org/wiki/Sarah_Michelle_Gellar), or [Summer
+Glau](https://www.shlomifish.org/humour/bits/facts/Summer-Glau/), or [Megan
+Fox](https://en.wikipedia.org/wiki/Megan_Fox), [Jennifer
+Lawrence](https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/),
+or [Chuck Norris](https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/)
+or [Tom Cruise](https://en.wikipedia.org/wiki/Tom_Cruise) or countless other
+awesome action heroes who would prosper more as amateurs rather than in the
+increasingly money-hungry soul-sucking and mind destroying professional
+Hollywood.
 
 Hasta la vista baby! We will be back.
 
 More real person fanfiction. I guess I must never do that.
+
+## Addendum: Commercial use of characters, concepts and worlds
+
+Before the current regime of copyright maximalism, copyright applied
+only to text and its printing and reprinting rights. Following
+a discussion on the Creative Commons mailing list I have made
+[the copyrights of my characters, concepts, plot elements and worlds
+CC-by](https://www.shlomifish.org/meta/copyrights/#characters_concepts_plots_and_worlds).
+It is well known that most
