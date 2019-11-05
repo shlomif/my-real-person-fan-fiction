@@ -2,8 +2,8 @@
 
 ## TL;DR Summary
 
-I, Shlomi Fish, writer, software developer and amateur philosopher, will
-continue to write real person fanfiction despite people telling me I must not.
+I, Shlomi Fish, writer, software developer, and amateur philosopher, will
+continue to write real person fanfiction, even though some people told me I must not.
 However, I'd like to note why it may have been a blessing in disguise.
 
 ## The Technion vs. Project Euler
@@ -11,10 +11,10 @@ However, I'd like to note why it may have been a blessing in disguise.
 I joked that my opinion on [The Technion](https://en.wikipedia.org/wiki/Technion_%E2%80%93_Israel_Institute_of_Technology), the University where I completed
 my EE B.Sc degree has become "untwitterable". The more I think about it,
 the more it seems
-that I think less highly of it, despite what some people told me that it
+that I think less highly of it, despite the fact that some people told me that it
 wasn't a waste of time, and that I'll reminiscient about my studies. Part of
-the problem was that I studied there only to get my B. Sc. in Electrical
-Engineering (while I'm not interested in electronics) which I wanted to
+the problem was that I studied there only in order to get my B. Sc. in Electrical
+Engineering (while I'm not interested in electronics), which I wanted in order to
 get more higher-paying jobs.
 
 I paid money to study there and the people whom were indirectly paid by me,
@@ -43,9 +43,10 @@ enjoys it, not to get paid. See http://paulgraham.com/opensource.html .
 Lately, by inspiration from a correspondent on a chat who mentioned
 someone's one line Resume, I wrote my ["I'm a Rock Star
 Résumé"](https://www.shlomifish.org/me/resumes/Shlomi-Fish-Resume-as-Software-Dev.html)
-where I included only amateur achievements, including Project Euler and
+where I included only amateur achievements, including Project Euler, and
 excluded the Technion. At first I thought it was because EE B.Sc. degrees are
-not notable enough. But then I realised something else: I wasn't proud of it.
+not notable enough. But then I realised something else: I wasn't proud of my
+EE degree.
 These were my most vexing, toxic, soul destroying, unproductive six years of my
 life. I regret doing it for greed of money.
 
@@ -77,8 +78,8 @@ can either ignore that criticism or learn from it.
 
 If I wrote a Real Person Fanfic of Taylor Swift, she won't be harmed or care.
 If I depicted her figuratively "kicking the ass" of the NSA in [Summerschool at
-the NSA](https://www.shlomifish.org/humour/Summerschool-at-the-NSA/) it would
-not have harmed her reputation a dent and it may have even give her good
+the NSA](https://www.shlomifish.org/humour/Summerschool-at-the-NSA/), it would
+not have harmed her reputation a dent, and it may have even give her good
 publicity and even fodder for songs or videos.
 
 As an amateur it would not have harmed her, and I would not have been
@@ -99,12 +100,12 @@ professionals were already intimidated by them, and they could be more
 productive as non-acting non-professionals activists. Why?
 
 Because they are professionals. The better they played, the more they were
-scorned and maligned and given poor roles by other jealous professional movie
+scorned and maligned and given poorer roles by other jealous professional movie
 makers who were jealous of their competency and elevated perception by amateur
 fans who knew better. There is a whole [YouTube search about why Hollywood cannot cast X anymore](https://twitter.com/shlomif/status/1174571159372935168) but
 it is the same old story. To paraphrase on an old [Star Trek (the original
 series)](https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series)
-quote: "it does not happen some of the time. It happens all the time."
+quote: "It does not happen some of the time. It happens all the time."
 
 But in the music industry it never happens. It will be very preposterous to
 ever see a YouTube feature "Why no one listens to the songs of The Beatles anymore.".
@@ -118,11 +119,12 @@ will think I am helping keep her legacy alive and rever me for it.
 ## JK Roling vs. Me
 
 I want to become the next big writer, but I want to remain writing for fun,
-publishing for free on my site under Creative Commons licences, and writing
-mostly fanfic or even real person fiction. People feel sorry for JK Roling for
-being a professional, despite her being a millionaire.
+publishing for free [on my site](https://www.shlomifish.org/) under Creative
+Commons licences, and writing mostly fanfic or even real person fiction. People
+feel sorry for JK Roling for being a professional, despite her being a
+millionaire.
 
-But people either love my work, respect me or even think I'm prepostorous or
+But people either love my work, respect me or even think I'm preposterous or
 blasphemous (which [indicates I may be
 right](http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/)
 ). People would cringe at reading the Harry Potter books now ("TL;DR") but many
@@ -149,12 +151,12 @@ It does not have to be this way.
 
 Jewel Staite
 [testified](https://www.reddit.com/r/IAmA/comments/2e3t1f/jewel_staite_ama/cjvt8t9/)
-that only she and Summer Glau could have played their characters on Firefly.
+that only she and Summer Glau could have played their characters on [*Firefly*](https://en.wikipedia.org/wiki/Firefly_%28TV_series%29).
 Similarly I am more and more convinced that only Emma Watson can play Selina on
 [my *Selina Mandrake - The Slayer*](https://www.shlomifish.org/humour/Selina-Mandrake/)
 screenplay but I'd
 like her to do it for fun and work for relatively little. It will be
-prepostorous to assume that the late Christina Grimmie can ever be replaced by
+preposterous to assume that the late Christina Grimmie can ever be replaced by
 her YouTuber colleague [Tiffany
 Alvord](https://en.wikipedia.org/wiki/Tiffany_Alvord) or even by Taylor Swift,
 despite the fact that all three were or are wonderful singers.
@@ -164,7 +166,7 @@ amateur writers who like me write mainly fanfic and often crossovers and even
 real person fiction. As much as I like Kermit the Frog and Lucky Luke they
 should star along [Chuck Norris and Summer
 Glau](https://www.shlomifish.org/humour/Muppets-Show-TNI/Summer-Glau-and-Chuck-Norris.html)
-because they are equally awesome even if real.
+because they are equally as awesome even if real.
 
 In Ancient times, most philosophers were entertainers who collected donation
 money after their performances and in fact were closer to today’s entertainers
@@ -189,7 +191,7 @@ hated, envied and mistreated. Until it hit their breaking point and they got
 angry and burst in rage against their mistreatment. Simply because
 they were professionals and worked for as much money as possible.
 
-It is possible that the reason it seems like the [Chuck Norris
+It is possible that the reason why it seems like the [Chuck Norris
 Facts](https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/) have made a
 comeback recently, is because Norris has decided to play in roles he liked, even
 if he got paid little or not at all, or was paid after the fact. He became a
@@ -199,7 +201,7 @@ completely unlike his traditional Hollywood image.
 
 But for now I'll write my real person fic on singers and YouTubers.
 I already have one more factoid about Taylor Swift and there likely will be more.
-And I assure you that for a long time you won't see a youtube video "Why people
+And I assure you that for a long time you won't see a YouTube video "Why people
 won't listen to Taylor Swift's songs again?" Poor Taylor! I'm sure she won't
 survive reading this Taylor Swift Factoid, and sue me immediately.
 
@@ -217,9 +219,9 @@ Schwarzenegger](https://www.youtube.com/watch?v=9Eont_yEGZs) she will not
 accept her fate and bend and break the rules to carve her unique destiny.
 
 She will give Hollywood the fat finger and start producing fan screenplays (in
-any conceivable format not only the overly strict and pedantic Hollywood
+any conceivable format - not only the overly strict and pedantic Hollywood
 screenplay format) that she will sponsor out of her own pocket and depict her
-as the sexy, competent, badass ass-kicker that she and her fans know she is
+as the sexy, competent, bad-ass ass-kicker that she and her fans know she is
 rather than her traditional sheepish and recessive (but not quite) [Hermione
 Granger](https://harrypotter.fandom.com/wiki/Hermione_Granger) image, and these
 videos will be available free of charge on YouTube. Many awesome male and
@@ -237,9 +239,14 @@ large data files and high quality videos for a pay or sell high quality
 collectors sets (like [Ghosts
 I-IV](https://en.wikipedia.org/wiki/Ghosts_I%E2%80%93IV)).
 
-As inconceivable as it is I think a
+There are other business models:
+
+* [nayafia/lemonade-stand: A handy guide to financial support for open source](https://github.com/nayafia/lemonade-stand)
+* [“Alternative” Profitable Models for Web-based Commerce](https://www.shlomifish.org/philosophy/computers/web/models-for-commerce/)
+
+As inconceivable as it seems, I think a
 [Terminator](https://en.wikipedia.org/wiki/Terminator_%28franchise%29) spoof
-with Watson as the evil terminator and Arnold trying to protect from her has a
+with Emma Watson as the evil terminator, and Arnold Schwarzenegger trying to protect from her has a
 great potential.  And I already have written crossovers starring her in
 anything from an [attack of the software industry's hiring
 process](https://www.shlomifish.org/humour/bits/Emma-Watson-applying-for-a-software-dev-job/),
@@ -259,7 +266,7 @@ Bride](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29), and [The
 Three Musketeers](https://en.wikipedia.org/wiki/The_Three_Musketeers).
 
 Hollywood will soon be terminated as an inefficient and lazy olygopol with
-relatively few remaining active franchies, few remaining able and competent
+relatively few remaining active franchises, few remaining able and competent
 actors who quickly will follow suit, and a flood of indistinguishable high
 budget comic books movies with incompetent and unattractive actors who didn't
 have the sense and competence to become YouTubers, empty cinemas, and boring
@@ -273,7 +280,7 @@ If Taylor Swift was able to
 [depict](https://www.youtube.com/watch?v=QcIy9NiNbmo) her female friends and
 herself as badass modern day female warriors, and still continue to outsell her
 shows, so should
-[Emma](https://www.shlomifish.org/humour/bits/facts/Emma-Watson/), or
+[Emma Watson](https://www.shlomifish.org/humour/bits/facts/Emma-Watson/), or
 [Gellar](https://en.wikipedia.org/wiki/Sarah_Michelle_Gellar), or [Summer
 Glau](https://www.shlomifish.org/humour/bits/facts/Summer-Glau/), or [Megan
 Fox](https://en.wikipedia.org/wiki/Megan_Fox), [Jennifer
