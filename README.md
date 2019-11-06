@@ -223,10 +223,10 @@ films were commercial successes. And it's because she too became far too
 powerful and competent for the incompetent and envious professional film makers
 and critics. But like great action heroes (or "hackers") of the past like <a
 href="https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/#david_and_goliath">David
-who fought Goliath</a>, [the Indiana Jones gun
+who fought Goliath</a>, its modernisation in the [Indiana Jones gun
 scene](https://www.youtube.com/watch?v=7YyBtMxZgQs) or the [trailer for
 “Hamlet” starring Arnold
-Schwarzenegger](https://www.youtube.com/watch?v=9Eont_yEGZs) she will not
+Schwarzenegger](https://www.youtube.com/watch?v=9Eont_yEGZs), she will not
 accept her fate and bend and break the rules to carve her unique destiny.
 
 She will give Hollywood the fat finger and start producing fan screenplays (in
@@ -247,7 +247,7 @@ collect "ransom" money to make it
 [CC-by](https://creativecommons.org/licenses/by/4.0/) or even [CC0 / Public
 Domain](https://creativecommons.org/choose/zero/). She might give access to
 large data files and high quality videos for a pay or sell high quality
-collectors sets (like [Ghosts
+collectors sets (just like Nine Inch Nails did with [Ghosts
 I-IV](https://en.wikipedia.org/wiki/Ghosts_I%E2%80%93IV)).
 
 There are other business models:
@@ -261,14 +261,9 @@ with Emma Watson as the evil terminator, and Arnold Schwarzenegger trying to pro
 great potential.  And I already have written crossovers starring her in
 anything from an [attack of the software industry's hiring
 process](https://www.shlomifish.org/humour/bits/Emma-Watson-applying-for-a-software-dev-job/),
-to a [Harry Potter and Sesame Street
+to a [Harry Potter and Sesame Street and others
 crossover](https://www.shlomifish.org/humour/Muppets-Show-TNI/Harry-Potter.html)
-(along with [the Donkey from Shrek](https://shrek.fandom.com/wiki/Donkey), [The
-Miller, his son and the
-donkey](https://en.wikipedia.org/wiki/The_miller%2C_his_son_and_the_donkey),
-and a hack/update of ["All you need is
-love"](https://www.reddit.com/r/Songwriters/comments/2aj4p4/do_it_all_with_love_modernisation_hack_of_the/)
-), as well as naturally
+, as well as naturally
 [Selina](https://www.shlomifish.org/humour/Selina-Mandrake/cast.html) which is
 a self-concious parody of Buffy, mashed up with Judaism and Israelism, as well
 as [Star Trek DS9](https://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine),
@@ -294,12 +289,12 @@ shows, so should
 [Emma Watson](https://www.shlomifish.org/humour/bits/facts/Emma-Watson/), or
 [Gellar](https://en.wikipedia.org/wiki/Sarah_Michelle_Gellar), or [Summer
 Glau](https://www.shlomifish.org/humour/bits/facts/Summer-Glau/), or [Megan
-Fox](https://en.wikipedia.org/wiki/Megan_Fox), [Jennifer
+Fox](https://en.wikipedia.org/wiki/Megan_Fox), or [Jennifer
 Lawrence](https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/),
 or [Chuck Norris](https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/)
 or [Tom Cruise](https://en.wikipedia.org/wiki/Tom_Cruise) or countless other
 awesome action heroes who would prosper more as amateurs rather than in the
-increasingly money-hungry soul-sucking and mind destroying professional
+increasingly money-hungry, soul-sucking, and mind destroying, professional
 Hollywood.
 
 Hasta la vista baby! We will be back.
@@ -344,3 +339,12 @@ and have also created some [related fan
 art](https://www.shlomifish.org/humour/bits/facts/)) had become successful in
 part because its copyrights or trademarks have not been enforced, which led to
 a "viral" growth.
+
+It is likely that creators of commercial franchises would benefit more by
+making their worlds, characters, and concepts unrestricted rather than
+being territorial around them. Some of my Internet friends agree with me
+that [Spaceballs](https://en.wikipedia.org/wiki/Spaceballs) is a better
+film than the [original Star Wars trilogy](https://en.wikipedia.org/wiki/Star_Wars_Trilogy).
+However, being a parody and therefore [fan art](https://www.shlomifish.org/meta/FAQ/#why_fan_fic),
+it builds upon the original work and depends on it. We are all [**standing
+on the shoulders of giants**](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants), so why not let others stand on ours?
