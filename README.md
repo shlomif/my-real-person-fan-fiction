@@ -116,12 +116,12 @@ songs are still popular. If I now rewrote my screenplay depicting her as a
 super intelligent and resourceful female who kicks the ass of the NSA, people
 will think I am helping keep her legacy alive and rever me for it.
 
-## JK Roling vs. Me
+## JK Rowling vs. Me
 
 I want to become the next big writer, but I want to remain writing for fun,
 publishing for free [on my site](https://www.shlomifish.org/) under Creative
 Commons licences, and writing mostly fanfic or even real person fiction. People
-feel sorry for JK Roling for being a professional, despite her being a
+feel sorry for JK Rowling for being a professional, despite her being a
 millionaire.
 
 But people either love my work, respect me or even think I'm preposterous or
