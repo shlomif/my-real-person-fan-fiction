@@ -60,7 +60,9 @@ don't work "hard".
 
 ## Taylor Swift as an amateur
 
-Someone on freenode complained how much he disliked [Apple's
+<img align="right" alt="Photo of Taylor Swift" src="./taylor_swift.webp" />
+
+In [this conversation](https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-gnu--think-big), someone on the freenode chat network complained how much he disliked [Apple's
 Swift](https://en.wikipedia.org/wiki/Swift_(programming_language)) programming
 language (which you may not have heard of) and I suggested he charge more -
 maybe 300 USD / hour - which he said no one can afford. Its name reminded me of
