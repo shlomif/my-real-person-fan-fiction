@@ -316,5 +316,21 @@ the [Discworld](https://en.wikipedia.org/wiki/Discworld) franchise for
 commercial and official sequels. But why not allow commercial and unofficial
 sequels, prequels, fanart, crossovers / mashups, etc.? Put the franchise
 under CC-by and tell the fans that they can build fan art above it as they
-please and **request** (not force) that a donation be made to the Pratchett's
-estate if there was a substantial profit.
+please and **request** (not force - see [Saladin-style](https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/)) that a donation be made to the Pratchett's
+estate, if there was a substantial profit.
+
+Yet another case of franchise copyrights abuse is that of [“Harry rotters:
+Warner Bros cracks down on Potter fan festivals in
+US”](https://www.theguardian.com/film/2018/jun/16/harry-potter-warner-bros-wizard-fan-festivals)
+where Warner Bros (who bought the rights to the Harry Potter franchise)
+demanded that Harry Potter conventions / festivals not use any names from the
+books.  I have no idea how this demand will be "good for the people", help make
+the world a better place, and/or ["help someone get
+laid"](https://www.jwz.org/doc/groupware.html). It just seems like a dick move
+by some overzealous lawyers.
+
+And now for the other side of the coin, according to the English Wikipedia [International Talk Like a Pirate Day](https://en.wikipedia.org/wiki/International_Talk_Like_a_Pirate_Day) (which is a fun holiday which I celebrate on the Internet,
+and have also created some [related fan
+art](https://www.shlomifish.org/humour/bits/facts/)) had become successful in
+part because its copyrights or trademarks have not been enforced, which led to
+a "viral" growth.
