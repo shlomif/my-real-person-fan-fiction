@@ -310,5 +310,11 @@ be filmed, or otherwise make a profit?
 [**Let a Thousand Flowers Bloom!**](https://www.shlomifish.org/humour/fortunes/show.cgi?id=perl-petdance-thousand-flowers)
 
 For example, following [Terry Pratchett](https://en.wikipedia.org/wiki/Terry_Pratchett)’s death,
-his daughter [Rhianna](https://en.wikipedia.org/wiki/Rhianna_Pratchett) announced that she closes
-the commercial [Discworld](https://en.wikipedia.org/wiki/Discworld) franchise.
+his daughter [Rhianna](https://en.wikipedia.org/wiki/Rhianna_Pratchett) who
+is his inheritor, announced that she closes
+the [Discworld](https://en.wikipedia.org/wiki/Discworld) franchise for
+commercial and official sequels. But why not allow commercial and unofficial
+sequels, prequels, fanart, crossovers / mashups, etc.? Put the franchise
+under CC-by and tell the fans that they can build fan art above it as they
+please and **request** (not force) that a donation be made to the Pratchett's
+estate if there was a substantial profit.
