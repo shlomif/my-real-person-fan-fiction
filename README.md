@@ -134,7 +134,7 @@ But people either love my work, respect me or even think I'm preposterous or
 blasphemous (which [indicates I may be
 right](http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/)
 ). People would cringe at reading the Harry Potter books now ("TL;DR") but many
-of my old stories, aphorisms or factoids are still funny and fresh.
+of my old [stories, aphorisms or factoids](https://www.shlomifish.org/humour/) are still funny and fresh.
 
 [Emma Watson](https://twitter.com/EmmaWatson)
 is the most highly paid actress in Hollywood, famous for having played Hermione
@@ -169,10 +169,12 @@ despite the fact that all three were or are wonderful singers.
 
 Actors should become amateurs and work for fun on amateur films they like by
 amateur writers who like me write mainly fanfic and often crossovers and even
-real person fiction. As much as I like Kermit the Frog and Lucky Luke they
-should star along [Chuck Norris and Summer
+real person fiction. As much as I like [Kermit the Frog](https://en.wikipedia.org/wiki/Kermit_the_Frog) and [Lucky Luke](https://en.wikipedia.org/wiki/Lucky_Luke) they
+should [star along Chuck Norris and Summer
 Glau](https://www.shlomifish.org/humour/Muppets-Show-TNI/Summer-Glau-and-Chuck-Norris.html)
-because they are equally as awesome even if real.
+because they are equally as awesome even if real, just like
+the old [*The Muppet Show*](https://muppet.fandom.com/wiki/The_Muppet_Show)
+featured celebrity guest stars as themselves.
 
 In Ancient times, most philosophers were entertainers who collected donation
 money after their performances and in fact were closer to today’s entertainers
@@ -183,13 +185,14 @@ rather than the ivory tower professional philosophers. See:
 * [If Ayn Rand was born in the 1990s she would be Christina Grimmie](https://www.shlomifish.org/humour.html#if_ayn_rand_was_born_in_the_1990s)
 * [ESR's post about why most classical music is a bunch of museum pieces](http://esr.ibiblio.org/?p=4229)
 
-Chuck Norris and Bruce Lee are the last in the line of master professional warriors
-(believed to have passed through
+Chuck Norris and Bruce Lee are the last in the line of master professional
+warriors (believed to have passed through
 [Saladin](http://shlomifishswiki.branchable.com/Saladin_Style/) himself - one
-of the greatest and most underrated [hackers](https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#hacking-heroism) of all time). However, I believe some of
-the newer amateur [Mixed Martial Arts
-(MMA)](https://en.wikipedia.org/wiki/Mixed_martial_arts) fighters could have
-defeated even Bruce Lee.
+of the greatest and most underrated
+[hackers](https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#hacking-heroism)
+of all time). However, I believe that some of the newer amateur [Mixed Martial
+Arts (MMA)](https://en.wikipedia.org/wiki/Mixed_martial_arts) fighters could
+have defeated even Bruce Lee.
 
 The better the former professional actors like Emma Watson, Sarah Michelle
 Gellar, Summer Glau, and Chuck Norris had become the more they were resented,
@@ -205,13 +208,15 @@ happy and respected amateur. I won't be surprised if he sometimes agrees to
 star in local school plays, or otherwise star in roles that may seem almost
 completely unlike his traditional Hollywood image.
 
-But for now I'll write my real person fic on singers and YouTubers.
-I already have one more factoid about Taylor Swift and there likely will be more.
-And I assure you that for a long time you won't see a YouTube video "Why people
-won't listen to Taylor Swift's songs again?" Poor Taylor! I'm sure she won't
-survive reading this Taylor Swift Factoid, and sue me immediately.
+But for now I'll write my real person fic on singers and YouTubers.  I already
+have one more factoid about Taylor Swift and there likely will be more.  And I
+assure you that for a long time you won't see a YouTube video "Why people won't
+listen to Taylor Swift's songs again?" Poor Taylor! I'm sure she won't survive
+reading this Taylor Swift Factoid, and sue me immediately.
 
 ## Emma Watson
+
+<img align="right" alt="Emma Watson Captioned Image" src="./emma_watson_capt_img.webp" />
 
 Emma Watson is no longer hireable in Hollywood despite the fact that all her
 films were commercial successes. And it's because she too became far too
