@@ -2,11 +2,14 @@
 
 ## TL;DR Summary
 
-I, Shlomi Fish, writer, software developer, and amateur philosopher, will
-continue to write real person fanfiction, even though some people told me I must not.
-However, I'd like to note why it may have been a blessing in disguise.
+I, [Shlomi Fish](https://www.shlomifish.org/), writer, software developer, and
+amateur philosopher, will continue to write real person fanfiction, even though
+some people told me I must not.  However, I'd like to note why it may have been
+a blessing in disguise.
 
 ## The Technion vs. Project Euler
+
+![Portrait of Leonhard Euler](./euler.webp)
 
 I joked that my opinion on [The
 Technion](https://en.wikipedia.org/wiki/Technion_%E2%80%93_Israel_Institute_of_Technology),
