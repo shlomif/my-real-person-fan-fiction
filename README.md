@@ -8,14 +8,15 @@ However, I'd like to note why it may have been a blessing in disguise.
 
 ## The Technion vs. Project Euler
 
-I joked that my opinion on [The Technion](https://en.wikipedia.org/wiki/Technion_%E2%80%93_Israel_Institute_of_Technology), the University where I completed
-my EE B.Sc degree has become "untwitterable". The more I think about it,
-the more it seems
-that I think less highly of it, despite the fact that some people told me that it
-wasn't a waste of time, and that I'll reminiscient about my studies. Part of
-the problem was that I studied there only in order to get my B. Sc. in Electrical
-Engineering (while I'm not interested in electronics), which I wanted in order to
-get more higher-paying jobs.
+I joked that my opinion on [The
+Technion](https://en.wikipedia.org/wiki/Technion_%E2%80%93_Israel_Institute_of_Technology),
+the University where I completed my B.Sc degree in Electrical Engineering (=
+"EE") ,has become "untwitterable". The more I think about it, the more it seems
+that I think less highly of it, despite the fact that some people told me that
+it wasn't a waste of time, and that I'll reminiscient about my studies. Part of
+the problem was that I studied there only in order to get my B. Sc. in
+Electrical Engineering (while I'm not interested in electronics), which I
+wanted in order to get more higher-paying jobs.
 
 I paid money to study there and the people whom were indirectly paid by me,
 while sometimes being helpful, often had limited time to help me, looked down
@@ -25,11 +26,12 @@ my health further, and taught me little of lasting value. Despite paying I
 didn't enjoy it, and only did it to get the diploma, so i can get a more
 lucrative job later on.
 
-Paying and getting paid made the experience worse. This is the curse of professionalism.
+Paying and getting paid made the experience worse. This is the curse of
+professionalism.
 
 Many years later, I started solving problems at [Project Euler](https://en.wikipedia.org/wiki/Project_Euler), one of many [competitive programming sites](https://github.com/EbookFoundation/free-programming-books/blob/master/problem-sets-competitive-programming.md). Since I had quite a bit of math and programming background,
 I did quite well at it having solved over 300 problems.
-I didn't have to pay but I voluntarily paid a small donation.
+I didn't have to pay, but I voluntarily paid a small donation.
 I am still unhappy by the somewhat degraded [user experience](https://en.wikipedia.org/wiki/User_experience), but am otherwise very content.
 
 Despite not paying or expecting to be paid, or rather because of it, I was
@@ -38,17 +40,16 @@ met with gratitude, respect and admiration by the people I helped on
 announcing that I have solved a new one - also without paying.
 
 I was much happier as an amateur - someone who does what he do because he
-enjoys it, not to get paid. See http://paulgraham.com/opensource.html .
+enjoys it, not to get paid. See [Paul Graham’s "What business can learn from open source"](http://paulgraham.com/opensource.html) .
 
-Lately, by inspiration from a correspondent on a chat who mentioned
-someone's one line Resume, I wrote my ["I'm a Rock Star
-Résumé"](https://www.shlomifish.org/me/resumes/Shlomi-Fish-Resume-as-Software-Dev.html)
+Lately, by inspiration from a correspondent on a chat who mentioned someone's
+one line Résumé, I wrote my ["I'm a Rock Star"
+Résumé](https://www.shlomifish.org/me/resumes/Shlomi-Fish-Resume-as-Software-Dev.html)
 where I included only amateur achievements, including Project Euler, and
 excluded the Technion. At first I thought it was because EE B.Sc. degrees are
-not notable enough. But then I realised something else: I wasn't proud of my
-EE degree.
-These were my most vexing, toxic, soul destroying, unproductive six years of my
-life. I regret doing it for greed of money.
+not notable enough. But then I realised something else: I wasn't proud of my EE
+degree.  These were my most vexing, toxic, soul destroying, unproductive, six
+years of my life. I regret doing it for greed of money.
 
 That junkie stand up comedian whom I saw at a captioned twitter video was
 right: if you want to succeed as a writer, entertainer and amateur philosopher:
