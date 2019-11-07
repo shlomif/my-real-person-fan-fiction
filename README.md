@@ -30,7 +30,7 @@ didn't enjoy it, and only did it to get the diploma, so i can get a more
 lucrative job later on.
 
 Paying and getting paid made the experience worse. This is the curse of
-professionalism.
+**professionalism**.
 
 Many years later, I started solving problems at [Project Euler](https://en.wikipedia.org/wiki/Project_Euler), one of many [competitive programming sites](https://github.com/EbookFoundation/free-programming-books/blob/master/problem-sets-competitive-programming.md). Since I had quite a bit of math and programming background,
 I did quite well at it having solved over 300 problems.
@@ -42,17 +42,18 @@ met with gratitude, respect and admiration by the people I helped on
 [freenode](https://freenode.net/) with previous problems I solved or by
 announcing that I have solved a new one - also without paying.
 
-I was much happier as an amateur - someone who does what he do because he
-enjoys it, not to get paid. See [Paul Graham’s "What business can learn from open source"](http://paulgraham.com/opensource.html) .
+I was much happier as an **amateur** - someone who does what they do because they
+enjoy it, not to get paid. See [Paul Graham’s "What business can learn from open source"](http://paulgraham.com/opensource.html) .
 
-Lately, by inspiration from a correspondent on a chat who mentioned someone's
-one line Résumé, I wrote my ["I'm a Rock Star"
+Lately, by inspiration from a correspondent on an Internet chat who mentioned
+someone's one line Résumé, I wrote my ["I'm a Rock Star software developer"
 Résumé](https://www.shlomifish.org/me/resumes/Shlomi-Fish-Resume-as-Software-Dev.html)
 where I included only amateur achievements, including Project Euler, and
 excluded the Technion. At first I thought it was because EE B.Sc. degrees are
-not notable enough. But then I realised something else: I wasn't proud of my EE
-degree.  These were my most vexing, toxic, soul destroying, unproductive, six
-years of my life. I regret doing it for greed of money.
+quite common and so not notable enough. But then I realised something else: I
+wasn't proud of my EE degree.  These were my most vexing, toxic, soul
+destroying, unproductive, six years of my life. I regret doing it for greed of
+money.
 
 That junkie stand up comedian whom I saw at a captioned twitter video was
 right: if you want to succeed as a writer, entertainer and amateur philosopher:
@@ -62,20 +63,22 @@ don't work "hard".
 
 <img align="right" alt="Photo&nbsp;of&nbsp;Taylor&nbsp;Swift" src="./taylor_swift.webp" />
 
-In [this conversation](https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-gnu--think-big), someone on the freenode chat network complained how much he disliked [Apple's
+In [this
+conversation](https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-gnu--think-big),
+someone on the freenode chat network complained how much he disliked [Apple's
 Swift](https://en.wikipedia.org/wiki/Swift_(programming_language)) programming
 language (which you may not have heard of) and I suggested he charge more -
 maybe 300 USD / hour - which he said no one can afford. Its name reminded me of
 [Taylor Swift](https://en.wikipedia.org/wiki/Taylor_Swift) - a successful and
 popular singer, who has many videos on YouTube, some of which I am fond of and
 which many people praise. You probably heard of her. Now, I told him that she
-probably charges more than 300 USD/hour, but the fact of the matter she might
-perform even for free for something that is important to her because performing
+probably charges more than 300 USD/hour, but the fact of the matter is, she might
+perform even for free for something that is important to her, because performing
 is fun. Her videos, despite often being popular, probably do not offset their
 production value in YouTube ads. But they are good publicity, provide fodder
 for remixes, parodies and covers, and are fun enough to produce so she can
-afford to sustain the cost. She doesn't work for money or even for a shitload of
-money. She works for fun.
+afford to sustain the cost. She doesn't work for money or even for a shitload
+of money. She works for fun.
 
 There is likely a lot of fanfic, fanart, comments and idolisations of her on
 the Internet. She may not improve significantly but she can derive inspiration
@@ -116,8 +119,8 @@ series)](https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series)
 quote: "It does not happen some of the time. It happens all the time."
 
 But in the music industry it never happens. It will be very preposterous to
-ever see a YouTube feature "Why no one listens to the songs of The Beatles anymore.".
-Moreover, even though [Christina
+ever see a YouTube feature "Why no one listens to the songs of The Beatles
+anymore.".  Moreover, even though [Christina
 Grimmie](https://en.wikipedia.org/wiki/Christina_Grimmie) was killed (in part
 due to her own mismanagement), and I was shocked and saddened by that, her
 songs are still popular. If I now rewrote my screenplay depicting her as a
@@ -134,9 +137,10 @@ millionaire.
 
 But people either love my work, respect me or even think I'm preposterous or
 blasphemous (which [indicates I may be
-right](http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/)
-). People would cringe at reading the Harry Potter books now ("TL;DR") but many
-of my old [stories, aphorisms or factoids](https://www.shlomifish.org/humour/) are still funny and fresh.
+right](http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/)).
+People would cringe at reading the Harry Potter books now ("TL;DR") but many of
+my old [stories, aphorisms or factoids](https://www.shlomifish.org/humour/) are
+still funny and fresh.
 
 [Emma Watson](https://twitter.com/EmmaWatson)
 is the most highly paid actress in Hollywood, famous for having played Hermione
@@ -170,11 +174,11 @@ Alvord](https://en.wikipedia.org/wiki/Tiffany_Alvord) or even by Taylor Swift,
 despite the fact that all three were or are wonderful singers.
 
 Actors should become amateurs and work for fun on amateur films they like by
-amateur writers who like me write mainly fanfic and often crossovers and even
+amateur writers who like me write mostly fanfic and often crossovers and even
 real person fiction. As much as I like [Kermit the Frog](https://en.wikipedia.org/wiki/Kermit_the_Frog) and [Lucky Luke](https://en.wikipedia.org/wiki/Lucky_Luke) they
 should [star along Chuck Norris and Summer
 Glau](https://www.shlomifish.org/humour/Muppets-Show-TNI/Summer-Glau-and-Chuck-Norris.html)
-because they are equally as awesome even if real, just like
+because they are equally as awesome even if real. Just like
 the old [*The Muppet Show*](https://muppet.fandom.com/wiki/The_Muppet_Show)
 featured celebrity guest stars as themselves.
 
@@ -213,8 +217,8 @@ completely unlike his traditional Hollywood image.
 But for now I'll write my real person fic on singers and YouTubers.  I already
 have one more factoid about Taylor Swift and there likely will be more.  And I
 assure you that for a long time you won't see a YouTube video "Why people won't
-listen to Taylor Swift's songs again?" Poor Taylor! I'm sure she won't survive
-reading this Taylor Swift Factoid, and sue me immediately.
+listen to Taylor Swift's songs any more?" Poor Taylor! I'm sure she won't
+survive reading this Taylor Swift Factoid, and sue me immediately.
 
 ## Emma Watson
 
@@ -233,7 +237,8 @@ accept her fate and bend and break the rules to carve her unique destiny.
 
 She will give Hollywood the fat finger and start producing fan screenplays (in
 any conceivable format - not only the overly strict and pedantic Hollywood
-screenplay format) that she will sponsor out of her own pocket and depict her
+screenplay format) that she will sponsor out of her own pocket. They will
+depict her
 as the sexy, competent, bad-ass ass-kicker that she and her fans know she is
 rather than her traditional sheepish and recessive (but not quite) [Hermione
 Granger](https://harrypotter.fandom.com/wiki/Hermione_Granger) image, and these
@@ -259,13 +264,13 @@ There are other business models:
 
 As inconceivable as it seems, I think a
 [Terminator](https://en.wikipedia.org/wiki/Terminator_%28franchise%29) spoof
-with Emma Watson as the evil terminator, and Arnold Schwarzenegger trying to protect from her has a
+with Emma Watson as the evil terminator, and Arnold Schwarzenegger trying to
+protect from her has a
 great potential.  And I already have written crossovers starring her in
 anything from an [attack of the software industry's hiring
-process](https://www.shlomifish.org/humour/bits/Emma-Watson-applying-for-a-software-dev-job/),
-to a [Harry Potter and Sesame Street and others
-crossover](https://www.shlomifish.org/humour/Muppets-Show-TNI/Harry-Potter.html)
-, as well as naturally
+process](https://www.shlomifish.org/humour/bits/Emma-Watson-applying-for-a-software-dev-job/);
+to a [crossover of Harry Potter, Sesame Street and other sources of inspiration](https://www.shlomifish.org/humour/Muppets-Show-TNI/Harry-Potter.html)
+; as well as naturally
 [Selina](https://www.shlomifish.org/humour/Selina-Mandrake/cast.html) which is
 a self-concious parody of Buffy, mashed up with Judaism and Israelism, as well
 as [Star Trek DS9](https://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine),
@@ -280,7 +285,7 @@ budget comic books movies with incompetent and unattractive actors who didn't
 have the sense and competence to become YouTubers, empty cinemas, and boring
 "original" films. Either that or it too will convert to the amateur and
 ["open"](https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/)
-model, which like the signed artists labels of the
+models, which like the signed artists labels of the
 [RIAA](https://en.wikipedia.org/wiki/Recording_Industry_Association_of_America)
 mostly get out of the way.
 
@@ -316,15 +321,18 @@ their worlds. But why not also allow such works to be sold commercially,
 be filmed, or otherwise make a profit?
 [**Let a Thousand Flowers Bloom!**](https://www.shlomifish.org/humour/fortunes/show.cgi?id=perl-petdance-thousand-flowers)
 
-For example, following [Terry Pratchett](https://en.wikipedia.org/wiki/Terry_Pratchett)’s death,
-his daughter [Rhianna](https://en.wikipedia.org/wiki/Rhianna_Pratchett) who
-is his inheritor, announced that she closes
-the [Discworld](https://en.wikipedia.org/wiki/Discworld) franchise for
-commercial and official sequels. But why not allow commercial and unofficial
-sequels, prequels, fanart, crossovers / mashups, etc.? Put the franchise
-under CC-by and tell the fans that they can build fan art above it as they
-please and **request** (not force - see [Saladin-style](https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/)) that a donation be made to the Pratchett's
-estate, if there was a substantial profit.
+For example, following [Terry
+Pratchett](https://en.wikipedia.org/wiki/Terry_Pratchett)’s death, his daughter
+[Rhianna Pratchett](https://en.wikipedia.org/wiki/Rhianna_Pratchett) who is his
+inheritor, announced that she closes the
+[Discworld](https://en.wikipedia.org/wiki/Discworld) franchise for commercial
+and official sequels. But why not allow commercial and unofficial sequels,
+prequels, fanart, crossovers / mashups, etc.? Put the franchise under CC-by and
+tell the fans that they can build fan art above it as they please and
+**request** (not force - see
+[Saladin-style](https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/))
+that a donation be made to the Pratchett's estate, if there was a substantial
+profit.
 
 Yet another case of franchise copyrights abuse is that of [“Harry rotters:
 Warner Bros cracks down on Potter fan festivals in
@@ -343,10 +351,13 @@ part because its copyrights or trademarks have not been enforced, which led to
 a "viral" growth.
 
 It is likely that creators of commercial franchises would benefit more by
-making their worlds, characters, and concepts unrestricted rather than
-being territorial around them. Some of my Internet friends agree with me
-that [Spaceballs](https://en.wikipedia.org/wiki/Spaceballs) is a better
-film than the [original Star Wars trilogy](https://en.wikipedia.org/wiki/Star_Wars_Trilogy).
-However, being a parody and therefore [fan art](https://www.shlomifish.org/meta/FAQ/#why_fan_fic),
-it builds upon the original work and depends on it. We are all [**standing
-on the shoulders of giants**](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants), so why not let others stand on ours?
+making their worlds, characters, and concepts unrestricted rather than being
+territorial around them. Some of my Internet friends agree with me that
+[Spaceballs](https://en.wikipedia.org/wiki/Spaceballs) is a better film than
+the [original Star Wars
+trilogy](https://en.wikipedia.org/wiki/Star_Wars_Trilogy).  However, being a
+parody and therefore [fan
+art](https://www.shlomifish.org/meta/FAQ/#why_fan_fic), it builds upon the
+original work and depends on it. We are all [**standing on the shoulders of
+giants**](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants),
+so why not let others stand on ours?
