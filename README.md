@@ -9,7 +9,7 @@ a blessing in disguise.
 
 ## The Technion vs. Project Euler
 
-<img align="right" alt="Portrait of Leonhard Euler" src="./euler.webp" />
+<img align="right" alt="Portrait&nbsp;of&nbsp;Leonhard&nbsp;Euler" src="./euler.webp" />
 
 I joked that my opinion on [The
 Technion](https://en.wikipedia.org/wiki/Technion_%E2%80%93_Israel_Institute_of_Technology),
@@ -60,7 +60,7 @@ don't work "hard".
 
 ## Taylor Swift as an amateur
 
-<img align="right" alt="Photo of Taylor Swift" src="./taylor_swift.webp" />
+<img align="right" alt="Photo&nbsp;of&nbsp;Taylor&nbsp;Swift" src="./taylor_swift.webp" />
 
 In [this conversation](https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-gnu--think-big), someone on the freenode chat network complained how much he disliked [Apple's
 Swift](https://en.wikipedia.org/wiki/Swift_(programming_language)) programming
@@ -95,7 +95,7 @@ But I did not.
 
 ## Sarah Michelle Gellar and Summer Glau
 
-<img align="left" alt="Logo of Summerschool at the NSA" src="./summernsa-logo-small.webp" title="Logo of Summerschool at the NSA" />
+<img align="left" alt="Logo&nbsp;of&nbsp;Summerschool&nbsp;at&nbsp;the&nbsp;NSA" src="./summernsa-logo-small.webp" title="Logo of Summerschool at the NSA" />
 
 Instead I sent the actresses [Sarah Michelle
 Gellar](https://en.wikipedia.org/wiki/Sarah_Michelle_Gellar), and [Summer
@@ -218,7 +218,7 @@ reading this Taylor Swift Factoid, and sue me immediately.
 
 ## Emma Watson
 
-<img align="right" alt="Emma Watson Captioned Image" src="./emma_watson_capt_img.webp" />
+<img align="right" alt="Emma&nbsp;Watson&nbsp;Captioned&nbsp;Image" src="./emma_watson_capt_img.webp" />
 
 Emma Watson is no longer hireable in Hollywood despite the fact that all her
 films were commercial successes. And it's because she too became far too
