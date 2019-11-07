@@ -3,7 +3,10 @@
 # Shlomi Fish, 2019-11-06 17:49
 #
 
-all: aynrand2grimmie.webp emma_watson_capt_img.webp euler.webp jk_rowling.webp taylor_swift.webp
+all: aynrand2grimmie.webp emma_watson_capt_img.webp euler.webp jk_rowling.webp taylor_swift.webp Talk_Like_a_Pirate_Day.webp
+
+Talk_Like_a_Pirate_Day.webp: Talk_Like_a_Pirate_Day.png
+	gm convert $< $@
 
 euler.webp: Leonhard_Euler.jpg
 	gm convert $< -resize 200x $@

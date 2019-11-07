@@ -349,6 +349,9 @@ the world a better place, and/or ["help someone get
 laid"](https://www.jwz.org/doc/groupware.html). It just seems like a dick move
 by some overzealous lawyers.
 
+
+<img align="right" alt="Talk&nbsp;like&nbsp;a&nbsp;pirate&nbsp;day" src="./Talk_Like_a_Pirate_Day.webp" />
+
 And now for the other side of the coin, according to the English Wikipedia [International Talk Like a Pirate Day](https://en.wikipedia.org/wiki/International_Talk_Like_a_Pirate_Day) (which is a fun holiday which I celebrate on the Internet,
 and have also created some [related fan
 art](https://www.shlomifish.org/humour/bits/facts/)) had become successful in
