@@ -3,12 +3,15 @@
 # Shlomi Fish, 2019-11-06 17:49
 #
 
-all: emma_watson_capt_img.webp euler.webp taylor_swift.webp
+all: emma_watson_capt_img.webp euler.webp jk_rowling.webp taylor_swift.webp
 
 euler.webp: Leonhard_Euler.jpg
 	gm convert $< -resize 200x $@
 
 taylor_swift.webp: TaylorSwiftApr09.jpg
+	gm convert $< -resize 200x $@
+
+jk_rowling.webp: J._K._Rowling_2010.jpg
 	gm convert $< -resize 200x $@
 
 EMMA_WATSON_GIT =captioned-image--emma-watson-doesnt-need-a-wand

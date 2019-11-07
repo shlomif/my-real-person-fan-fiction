@@ -129,13 +129,15 @@ will think I am helping keep her legacy alive and rever me for it.
 
 ## JK Rowling vs. Me
 
+<img align="right" alt="J.&nbsp;K.&nbsp;Rowling" src="./jk_rowling.webp" />
+
 I want to become the next big writer, but I want to remain writing for fun,
 publishing for free [on my site](https://www.shlomifish.org/) under Creative
 Commons licences, and writing mostly fanfic or even real person fiction. People
-feel sorry for JK Rowling for being a professional, despite her being a
-millionaire.
+feel sorry for [JK Rowling](https://en.wikipedia.org/wiki/J._K._Rowling) for
+being a professional, despite the fact that she is a millionaire.
 
-But people either love my work, respect me or even think I'm preposterous or
+But people either love my work, respect me, or even think I'm preposterous or
 blasphemous (which [indicates I may be
 right](http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/)).
 People would cringe at reading the Harry Potter books now ("TL;DR") but many of
