@@ -26,7 +26,7 @@ while sometimes being helpful, often had limited time to help me, looked down
 upon me, and gave me hard tests and unfair grades. It destroyed my self-esteem,
 harmed my health, made me maniacal, put me on antipsychotics which harmed
 my health further, and taught me little of lasting value. Despite paying I
-didn't enjoy it, and only did it to get the diploma, so i can get a more
+didn't enjoy it, and only did it to get the diploma, so I can get a more
 lucrative job later on.
 
 Paying and getting paid made the experience worse. This is the curse of
@@ -163,30 +163,33 @@ It does not have to be this way.
 
 ## Actors are not replaceable
 
+<img align="left" alt="If&nbsp;Ayn&nbsp;Rand&nbsp;was&nbsp;born&nbsp;in&nbsp;the&nbsp;1990s,&nbsp;she&nbsp;would&nbsp;be&nbsp;Christina&nbsp;Grimmie" src="./aynrand2grimmie.webp" />
+
 Jewel Staite
 [testified](https://www.reddit.com/r/IAmA/comments/2e3t1f/jewel_staite_ama/cjvt8t9/)
-that only she and Summer Glau could have played their characters on [*Firefly*](https://en.wikipedia.org/wiki/Firefly_%28TV_series%29).
-Similarly I am more and more convinced that only Emma Watson can play Selina on
-[my *Selina Mandrake - The Slayer*](https://www.shlomifish.org/humour/Selina-Mandrake/)
-screenplay but I'd
-like her to do it for fun and work for relatively little. It will be
-preposterous to assume that the late Christina Grimmie can ever be replaced by
-her YouTuber colleague [Tiffany
+that only she and Summer Glau could have played their characters on
+[*Firefly*](https://en.wikipedia.org/wiki/Firefly_%28TV_series%29).  Similarly
+I am more and more convinced that only Emma Watson can play Selina on [my
+*Selina Mandrake - The
+Slayer*](https://www.shlomifish.org/humour/Selina-Mandrake/) screenplay but I'd
+like her to do it because she enjoys it and work for relatively little. It will
+be preposterous to assume that the late Christina Grimmie can ever be replaced
+by her YouTuber colleague [Tiffany
 Alvord](https://en.wikipedia.org/wiki/Tiffany_Alvord) or even by Taylor Swift,
 despite the fact that all three were or are wonderful singers.
 
 Actors should become amateurs and work for fun on amateur films they like by
-amateur writers who like me write mostly fanfic and often crossovers and even
-real person fiction. As much as I like [Kermit the Frog](https://en.wikipedia.org/wiki/Kermit_the_Frog) and [Lucky Luke](https://en.wikipedia.org/wiki/Lucky_Luke) they
+amateur writers, who like me, write mostly fanfic and often crossovers and even
+real person fiction. As much as I like [Kermit the Frog](https://en.wikipedia.org/wiki/Kermit_the_Frog) and [Lucky Luke](https://en.wikipedia.org/wiki/Lucky_Luke), they
 should [star along Chuck Norris and Summer
 Glau](https://www.shlomifish.org/humour/Muppets-Show-TNI/Summer-Glau-and-Chuck-Norris.html)
-because they are equally as awesome even if real. Just like
+because the latter two are equally as awesome even if real. Just like
 the old [*The Muppet Show*](https://muppet.fandom.com/wiki/The_Muppet_Show)
 featured celebrity guest stars as themselves.
 
 In Ancient times, most philosophers were entertainers who collected donation
-money after their performances and in fact were closer to today’s entertainers
-rather than the ivory tower professional philosophers. See:
+money after their performances, and in fact were closer to today’s entertainers
+than our contemporary ivory tower professional philosophers. See:
 
 * [Mel Brooks' Stand up philospher](https://www.youtube.com/watch?v=oBIxGjSHzF8)
 * [Peter Ustinov: "If Botticelli were alive today he'd be working for Vogue"](https://www.brainyquote.com/quotes/peter_ustinov_161259)
@@ -200,7 +203,7 @@ of the greatest and most underrated
 [hackers](https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#hacking-heroism)
 of all time). However, I believe that some of the newer amateur [Mixed Martial
 Arts (MMA)](https://en.wikipedia.org/wiki/Mixed_martial_arts) fighters could
-have defeated even Bruce Lee.
+have [defeated even Bruce Lee](https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-english-play-to-lose).
 
 The better the former professional actors like Emma Watson, Sarah Michelle
 Gellar, Summer Glau, and Chuck Norris had become the more they were resented,
@@ -220,7 +223,7 @@ But for now I'll write my real person fic on singers and YouTubers.  I already
 have one more factoid about Taylor Swift and there likely will be more.  And I
 assure you that for a long time you won't see a YouTube video "Why people won't
 listen to Taylor Swift's songs any more?" Poor Taylor! I'm sure she won't
-survive reading this Taylor Swift Factoid, and sue me immediately.
+survive reading this new Taylor Swift Factoid, and sue me immediately.
 
 ## Emma Watson
 
