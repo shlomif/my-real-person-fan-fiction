@@ -95,7 +95,7 @@ But I did not.
 
 ## Sarah Michelle Gellar and Summer Glau
 
-<img align="left" alt="Logo&nbsp;of&nbsp;Summerschool&nbsp;at&nbsp;the&nbsp;NSA" src="./summernsa-logo-small.webp" title="Logo of Summerschool at the NSA" />
+<img align="left" alt="Logo&nbsp;of&nbsp;Summerschool&nbsp;at&nbsp;the&nbsp;NSA" src="./summernsa-logo-small.webp" title="Logo&nbsp;of&nbsp;Summerschool&nbsp;at&nbsp;the&nbsp;NSA" />
 
 Instead I sent the actresses [Sarah Michelle
 Gellar](https://en.wikipedia.org/wiki/Sarah_Michelle_Gellar), and [Summer
