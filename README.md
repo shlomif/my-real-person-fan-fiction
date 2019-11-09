@@ -9,7 +9,7 @@ a blessing in disguise.
 
 ## The Technion vs. Project Euler
 
-<img align="right" alt="Portrait&nbsp;of&nbsp;Leonhard&nbsp;Euler" src="./euler.webp" />
+<img align="right" alt="Portrait of Leonhard Euler" src="./euler.webp" />
 
 I joked that my opinion on [The
 Technion](https://en.wikipedia.org/wiki/Technion_%E2%80%93_Israel_Institute_of_Technology),
@@ -61,7 +61,7 @@ don't work "hard".
 
 ## Taylor Swift as an amateur
 
-<img align="right" alt="Photo&nbsp;of&nbsp;Taylor&nbsp;Swift" src="./taylor_swift.webp" />
+<img align="right" alt="Photo of Taylor Swift" src="./taylor_swift.webp" />
 
 In [this
 conversation](https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-gnu--think-big),
@@ -98,7 +98,7 @@ But I did not.
 
 ## Sarah Michelle Gellar and Summer Glau
 
-<img align="left" alt="Logo&nbsp;of&nbsp;Summerschool&nbsp;at&nbsp;the&nbsp;NSA" src="./summernsa-logo-small.webp" title="Logo&nbsp;of&nbsp;Summerschool&nbsp;at&nbsp;the&nbsp;NSA" />
+<img align="left" alt="Logo of Summerschool at the NSA" src="./summernsa-logo-small.webp" title="Logo of Summerschool at the NSA" />
 
 Instead I sent the actresses [Sarah Michelle
 Gellar](https://en.wikipedia.org/wiki/Sarah_Michelle_Gellar), and [Summer
@@ -129,7 +129,7 @@ will think I am helping keep her legacy alive and rever me for it.
 
 ## JK Rowling vs. Me
 
-<img align="right" alt="J.&nbsp;K.&nbsp;Rowling" src="./jk_rowling.webp" />
+<img align="right" alt="J. K. Rowling" src="./jk_rowling.webp" />
 
 I want to become the next big writer, but I want to remain writing for fun,
 publishing for free [on my site](https://www.shlomifish.org/) under Creative
@@ -163,7 +163,7 @@ It does not have to be this way.
 
 ## Actors are not replaceable
 
-<img align="left" alt="If&nbsp;Ayn&nbsp;Rand&nbsp;was&nbsp;born&nbsp;in&nbsp;the&nbsp;1990s,&nbsp;she&nbsp;would&nbsp;be&nbsp;Christina&nbsp;Grimmie" src="./aynrand2grimmie.webp" />
+<img align="left" alt="If Ayn Rand was born in the 1990s, she would be Christina Grimmie" src="./aynrand2grimmie.webp" />
 
 Jewel Staite
 [testified](https://www.reddit.com/r/IAmA/comments/2e3t1f/jewel_staite_ama/cjvt8t9/)
@@ -227,7 +227,7 @@ survive reading this new Taylor Swift Factoid, and sue me immediately.
 
 ## Emma Watson
 
-<img align="right" alt="Emma&nbsp;Watson&nbsp;Captioned&nbsp;Image" src="./emma_watson_capt_img.webp" />
+<img align="right" alt="Emma Watson Captioned Image" src="./emma_watson_capt_img.webp" />
 
 Emma Watson is no longer hireable in Hollywood despite the fact that all her
 films were commercial successes. And it's because she too became far too
@@ -350,7 +350,7 @@ laid"](https://www.jwz.org/doc/groupware.html). It just seems like a dick move
 by some overzealous lawyers.
 
 
-<img align="right" alt="Talk&nbsp;like&nbsp;a&nbsp;pirate&nbsp;day" src="./Talk_Like_a_Pirate_Day.webp" />
+<img align="right" alt="Talk like a pirate day" src="./Talk_Like_a_Pirate_Day.webp" />
 
 And now for the other side of the coin, according to the English Wikipedia [International Talk Like a Pirate Day](https://en.wikipedia.org/wiki/International_Talk_Like_a_Pirate_Day) (which is a fun holiday which I celebrate on the Internet,
 and have also created some [related fan
