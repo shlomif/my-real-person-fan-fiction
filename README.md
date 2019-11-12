@@ -24,8 +24,10 @@ wanted in order to get more higher-paying jobs.
 I paid money to study there and the people whom were indirectly paid by me,
 while sometimes being helpful, often had limited time to help me, looked down
 upon me, and gave me hard tests and unfair grades. It destroyed my self-esteem,
-harmed my health, made me maniacal, put me on antipsychotics which harmed
-my health further, and taught me little of lasting value. Despite paying I
+harmed my health, made me maniacal, put me on psychiatric drugs which
+[harmed my
+health](https://github.com/shlomif/why-openly-bipolar-people-should-not-be-medicated)
+further, and taught me little of lasting value. Despite paying I
 didn't enjoy it, and only did it to get the diploma, so I can get a more
 lucrative job later on.
 
@@ -56,7 +58,7 @@ destroying, unproductive, six years of my life. I regret doing it for greed of
 money.
 
 That junkie stand up comedian whom I saw at a captioned twitter video was
-right: if you want to succeed as a writer, entertainer and amateur philosopher:
+right: if you want to succeed as a writer, entertainer, and amateur philosopher:
 don't work "hard".
 
 ## Taylor Swift as an amateur
@@ -212,15 +214,16 @@ angry and burst in rage against their mistreatment. Simply because
 they were professionals and worked for as much money as possible.
 
 It is possible that the reason why it seems like the [Chuck Norris
-Facts](https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/) have made a
-comeback recently, is because Norris has decided to play in roles he liked, even
-if he got paid little or not at all, or was paid after the fact. He became a
-happy and respected amateur. I won't be surprised if he sometimes agrees to
-star in local school plays, or otherwise star in roles that may seem almost
-completely unlike his traditional Hollywood image.
+Facts](https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/) have made [a
+comeback](https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#Chuck_Norris)
+recently, is because Norris has decided to play in roles he liked, even if he
+got paid little or not at all, or was paid after the fact. He became a happy
+and respected amateur. I won't be surprised if he sometimes agrees to star in
+local school plays, or otherwise star in roles that may seem almost completely
+unlike his traditional Hollywood image.
 
 But for now I'll write my real person fic on singers and YouTubers.  I already
-have one more factoid about Taylor Swift and there likely will be more.  And I
+have one more factoid about Taylor Swift and there likely will be more. I
 assure you that for a long time you won't see a YouTube video "Why people won't
 listen to Taylor Swift's songs any more?" Poor Taylor! I'm sure she won't
 survive reading this new Taylor Swift Factoid, and sue me immediately.
@@ -241,11 +244,11 @@ Schwarzenegger](https://www.youtube.com/watch?v=9Eont_yEGZs), she will not
 accept her fate and bend and break the rules to carve her unique destiny.
 
 She will give Hollywood the fat finger and start producing fan screenplays (in
-any conceivable format - not only the overly strict and pedantic Hollywood
-screenplay format) that she will sponsor out of her own pocket. They will
-depict her
-as the sexy, competent, bad-ass ass-kicker that she and her fans know she is
-rather than her traditional sheepish and recessive (but not quite) [Hermione
+any conceivable format - not only the overly strict, and pedantic Hollywood
+screenplay format, which is hard to get right) that she will sponsor out of her
+own pocket. They will depict her as the sexy, competent, bad-ass ass-kicker
+that she and her fans know she is rather than her traditional sheepish and
+recessive (but not quite) [Hermione
 Granger](https://harrypotter.fandom.com/wiki/Hermione_Granger) image, and these
 videos will be available free of charge on YouTube. Many awesome male and
 female actor hackers who used to be household names but are now unhireable for
@@ -274,16 +277,16 @@ protect from her has a
 great potential.  And I already have written crossovers starring her in
 anything from an [attack of the software industry's hiring
 process](https://www.shlomifish.org/humour/bits/Emma-Watson-applying-for-a-software-dev-job/);
-to a [crossover of Harry Potter, Sesame Street and other sources of inspiration](https://www.shlomifish.org/humour/Muppets-Show-TNI/Harry-Potter.html)
+to a [crossover](https://www.shlomifish.org/humour/Muppets-Show-TNI/Harry-Potter.html) of Harry Potter, Sesame Street and other sources of inspiration
 ; as well as naturally
 [Selina](https://www.shlomifish.org/humour/Selina-Mandrake/cast.html) which is
-a self-concious parody of Buffy, mashed up with Judaism and Israelism, as well
+a self-concious parody of [*Buffy*](https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer), mashed up with Judaism and Israelism, as well
 as [Star Trek DS9](https://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine),
 [The Princess
 Bride](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29), and [The
 Three Musketeers](https://en.wikipedia.org/wiki/The_Three_Musketeers).
 
-Hollywood will soon be terminated as an inefficient and lazy olygopol with
+Hollywood will soon be terminated as an inefficient and lazy oligopoly with
 relatively few remaining active franchises, few remaining able and competent
 actors who quickly will follow suit, and a flood of indistinguishable high
 budget comic books movies with incompetent and unattractive actors who didn't
@@ -292,11 +295,11 @@ have the sense and competence to become YouTubers, empty cinemas, and boring
 ["open"](https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/)
 models, which like the signed artists labels of the
 [RIAA](https://en.wikipedia.org/wiki/Recording_Industry_Association_of_America)
-mostly get out of the way.
+mostly get out of the way (minus some censoring of YouTube content, both "copyright-violating" and legitimate which I hope and plan that will stop soon).
 
 If Taylor Swift was able to
 [depict](https://www.youtube.com/watch?v=QcIy9NiNbmo) her female friends and
-herself as badass modern day female warriors, and still continue to outsell her
+herself as bad-ass modern day female warriors, and still continue to outsell her
 shows, so should
 [Emma Watson](https://www.shlomifish.org/humour/bits/facts/Emma-Watson/), or
 [Gellar](https://en.wikipedia.org/wiki/Sarah_Michelle_Gellar), or [Summer
@@ -317,7 +320,7 @@ More real person fanfiction. I guess I must never do that.
 
 Before the current regime of copyright maximalism, copyright applied
 only to text and its printing and reprinting rights. Following
-a discussion on the Creative Commons mailing list I have made
+a [discussion](https://lists.ibiblio.org/pipermail/cc-community/2013-February/008338.html) on the Creative Commons mailing list I have made
 [the copyrights of my characters, concepts, plot elements and worlds under the
 CC-by licence](https://www.shlomifish.org/meta/copyrights/#characters_concepts_plots_and_worlds).
 It is well known that most creators of commercial worlds effectively cannot and
@@ -342,21 +345,25 @@ profit.
 Yet another case of franchise copyrights abuse is that of [“Harry rotters:
 Warner Bros cracks down on Potter fan festivals in
 US”](https://www.theguardian.com/film/2018/jun/16/harry-potter-warner-bros-wizard-fan-festivals)
-where Warner Bros (who bought the rights to the Harry Potter franchise)
-demanded that Harry Potter conventions / festivals not use any names from the
-books.  I have no idea how this demand will be "good for the people", help make
-the world a better place, and/or ["help someone get
-laid"](https://www.jwz.org/doc/groupware.html). It just seems like a dick move
-by some overzealous lawyers.
+where Warner Bros (who bought the rights to the [Harry Potter
+franchise](https://en.wikipedia.org/wiki/Harry_Potter)) demanded that Harry
+Potter conventions / festivals not use any names from the books.  I have no
+idea how this demand will be "good for the people", help make the world a
+better place, and/or ["help someone get
+laid"](https://www.jwz.org/doc/groupware.html). It just seems like a
+[dick](https://knowyourmeme.com/memes/wheatons-law) move by some overzealous
+lawyers.
 
 
 <img align="right" alt="Talk like a pirate day" src="./Talk_Like_a_Pirate_Day.webp" />
 
-And now for the other side of the coin, according to the English Wikipedia [International Talk Like a Pirate Day](https://en.wikipedia.org/wiki/International_Talk_Like_a_Pirate_Day) (which is a fun holiday which I celebrate on the Internet,
-and have also created some [related fan
-art](https://www.shlomifish.org/humour/bits/facts/)) had become successful in
-part because its copyrights or trademarks have not been enforced, which led to
-a "viral" growth.
+And now for the other side of the coin, according to the English Wikipedia
+[International Talk Like a Pirate
+Day](https://en.wikipedia.org/wiki/International_Talk_Like_a_Pirate_Day) (which
+is a fun holiday which I celebrate on the Internet, and have also created some
+[related fan art](https://www.shlomifish.org/humour/bits/facts/)), had become
+successful in part because its copyrights or trademarks have not been enforced,
+which led to a "viral" growth.
 
 It is likely that creators of commercial franchises would benefit more by
 making their worlds, characters, and concepts unrestricted rather than being
