@@ -3,9 +3,13 @@
 ## TL;DR Summary
 
 I, [Shlomi Fish](https://www.shlomifish.org/), writer, software developer, and
-amateur philosopher, will continue to write real person fanfiction, even though
-some people told me I must not.  However, I'd like to note why it may have been
-a blessing in disguise.
+amateur philosopher, will continue to write [real person
+fanfiction](https://en.wikipedia.org/wiki/Real_person_fiction), which is
+fiction that depicts famous real-life people, either dead or alive.
+This is despite the fact that some people told me I must not because it
+can hurt that person’s future and career. I'd like to note why seemimgly
+Hollywood actors have been jinxed by that, and why it cannot happen to
+singers.
 
 ## The Technion vs. Project Euler
 
