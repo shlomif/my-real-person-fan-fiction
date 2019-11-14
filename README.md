@@ -1,10 +1,10 @@
-# Why I will continue to write my real person fanfiction (fanfic)
+# Why I will continue to write my real person fan fiction (fanfic)
 
 ## TL;DR Summary
 
 I, [Shlomi Fish](https://www.shlomifish.org/), writer, software developer, and
 amateur philosopher, will continue to write [real person
-fanfiction](https://en.wikipedia.org/wiki/Real_person_fiction), which is
+fan fiction](https://en.wikipedia.org/wiki/Real_person_fiction), which is
 fiction that depicts famous real-life people, either dead or alive.
 This is despite the fact that some people told me I must not because it
 can hurt that person’s future and career. I'd like to note why seemingly
@@ -92,8 +92,8 @@ for remixes, parodies and covers, and are fun enough to produce so she can
 afford to sustain the cost. She doesn't work for money or even for a shitload
 of money. She works for fun.
 
-There is likely a lot of fanfic, fanart, comments and idolisations of her on
-the Internet. She may not improve significantly but she can derive inspiration
+There is likely a lot of fan fic, fanart, comments and idolisations of her on
+the Internet. She may not improve significantly, but she can derive inspiration
 and comments from them, and even if she is criticised or held in contempt, she
 can either ignore that criticism or learn from it.
 
@@ -329,7 +329,7 @@ Hollywood.
 
 Hasta la vista baby! We will be back.
 
-More real person fanfiction. I guess I must never do that.
+More real person fan fiction. I guess I must never do that.
 
 ## Addendum: Commercial use of characters, concepts and worlds
 
