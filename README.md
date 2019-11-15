@@ -193,12 +193,16 @@ despite the fact that all three were or are wonderful singers.
 
 Actors should become amateurs and work for fun on amateur films they like by
 amateur writers, who like me, write mostly fanfic and often crossovers and even
-real person fiction. As much as I like [Kermit the Frog](https://en.wikipedia.org/wiki/Kermit_the_Frog) and [Lucky Luke](https://en.wikipedia.org/wiki/Lucky_Luke), they
-should [star along Chuck Norris and Summer
-Glau](https://www.shlomifish.org/humour/Muppets-Show-TNI/Summer-Glau-and-Chuck-Norris.html)
-because the latter two are equally as awesome even if real. Just like
-the old show [*The Muppet Show*](https://muppet.fandom.com/wiki/The_Muppet_Show)
-featured celebrity guest stars as themselves.
+real person fiction. As much as I like [Kermit the
+Frog](https://en.wikipedia.org/wiki/Kermit_the_Frog) and [Lucky
+Luke](https://en.wikipedia.org/wiki/Lucky_Luke), I wish Chuck Norris and Summer
+Glau to [star along
+them](https://www.shlomifish.org/humour/Muppets-Show-TNI/Summer-Glau-and-Chuck-Norris.html),
+because the latter two are equally as awesome even if real. Just like the old
+show [*The Muppet Show*](https://muppet.fandom.com/wiki/The_Muppet_Show)
+featured celebrity guest stars as themselves, and [*Sesame
+Street*](https://en.wikipedia.org/wiki/Sesame_Street) has been doing it since
+its inception in 1969.
 
 In Ancient times, most philosophers were entertainers who collected donation
 money after their performances, and in fact were closer to today’s entertainers
