@@ -1,0 +1,419 @@
+== Why I will continue to write my real person fan fiction (fanfic)
+
+=== TL;DR Summary
+
+I, https://www.shlomifish.org/[Shlomi Fish], writer, software developer,
+and amateur philosopher, will continue to write
+https://en.wikipedia.org/wiki/Real_person_fiction[real person fan
+fiction], which is fiction that depicts famous real-life people, either
+dead or alive. This is despite the fact that some people told me I must
+not because it can hurt that person’s future and career. I’d like to
+note why seemingly Hollywood actors have been jinxed by that, and why it
+cannot happen to singers.
+
+=== The Technion vs. Project Euler
+
+I joked that my opinion on
+https://en.wikipedia.org/wiki/Technion_%E2%80%93_Israel_Institute_of_Technology[The
+Technion], the University where I completed my B.Sc degree in Electrical
+Engineering (= ``EE'') ,has become ``untwitterable''. The more I think
+about it, the more it seems that I think less highly of it, despite the
+fact that some people told me that it wasn’t a waste of time, and that
+I’ll fondly look back at my studies. Part of the problem was that I
+studied there only in order to get my degree (while I’m not interested
+in electronics), which I wanted in order to get more higher-paying jobs.
+
+I paid money to study there, and the people whom were indirectly paid by
+me, while sometimes being helpful, often had limited time to help me,
+looked down upon me, and gave me hard tests and unfair grades. It
+destroyed my self-esteem, harmed my health, made me maniacal, put me on
+psychiatric drugs which
+https://github.com/shlomif/why-openly-bipolar-people-should-not-be-medicated[harmed
+my health] further, and taught me little of lasting value. Despite
+paying I didn’t enjoy it, and only did it to get the diploma, so I can
+get a more lucrative job later on.
+
+Paying and getting paid made the experience worse. This is the curse of
+*professionalism*.
+
+Many years later, I started solving problems at
+https://en.wikipedia.org/wiki/Project_Euler[Project Euler], one of many
+https://github.com/EbookFoundation/free-programming-books/blob/master/problem-sets-competitive-programming.md[competitive
+programming sites]. Since I had quite a bit of math and programming
+background, I did quite well at it, and have solved over 300 problems. I
+didn’t have to pay, but I voluntarily paid a small donation. I am still
+unhappy by the somewhat degraded
+https://en.wikipedia.org/wiki/User_experience[user experience] of it,
+but am otherwise very content.
+
+Despite not paying or expecting to be paid, or rather because of it, I
+was met with gratitude, respect and admiration by the people I helped on
+the https://freenode.net/[freenode chat network] with previous problems
+I solved or by announcing that I have solved a new one - also without
+paying.
+
+I was much happier as an *amateur* - someone who does what they do
+because they enjoy it and love it, not to get paid. See
+http://paulgraham.com/opensource.html[Paul Graham’s ``What business can
+learn from open source''] .
+
+Lately, by inspiration from a correspondent on an Internet chat who
+mentioned someone’s one line Résumé, I wrote my
+https://www.shlomifish.org/me/resumes/Shlomi-Fish-Resume-as-Software-Dev.html[``I’m
+a Rock Star software developer'' Résumé] where I included only amateur
+achievements, including Project Euler, and excluded the Technion. At
+first I thought it was because EE B.Sc. degrees are quite common and so
+not notable enough. But then I realised something else: I wasn’t proud
+of my EE degree. These were my most vexing, toxic, soul destroying,
+unproductive, six years of my life. I regret doing it for greed of
+money.
+
+That junkie stand up comedian whom I saw at a captioned twitter video
+was right: if you want to succeed as a writer, entertainer, and amateur
+philosopher: don’t work ``hard''.
+
+=== Taylor Swift as an amateur
+
+In
+https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-gnu--think-big[this
+conversation], someone on freenode complained how much he disliked
+https://en.wikipedia.org/wiki/Swift_(programming_language)[Apple’s
+Swift] programming language (which you may not have heard of) and I
+suggested he charge more - maybe 300 USD / hour - which he said no one
+can afford. Its name reminded me of
+https://en.wikipedia.org/wiki/Taylor_Swift[Taylor Swift] - a successful
+and popular singer, who has many videos on YouTube, some of which I am
+fond of and which many people praise. You probably heard of her. Now, I
+told him that she probably charges more than 300 USD/hour, but the fact
+of the matter is, she might perform even for free for something that is
+important to her, because performing is fun. Her videos, despite often
+being popular, probably do not offset their production value in YouTube
+ads. But they are good publicity, provide fodder for remixes, parodies
+and covers, and are fun enough to produce so she can afford to sustain
+the cost. She doesn’t work for money or even for a shitload of money.
+She works for fun.
+
+There is likely a lot of fan fic, fanart, comments and idolisations of
+her on the Internet. She may not improve significantly, but she can
+derive inspiration and comments from them, and even if she is criticised
+or held in contempt, she can either ignore that criticism or learn from
+it.
+
+If I wrote a Real Person Fanfic of Taylor Swift, she won’t be harmed or
+object. If I depicted her figuratively ``kicking the ass'' of the NSA in
+https://www.shlomifish.org/humour/Summerschool-at-the-NSA/[Summerschool
+at the NSA], it would not have harmed her reputation a dent, and it may
+have even give her good publicity and even fodder for songs or videos.
+
+As an amateur, it would not have harmed her, and I would not have been
+considered a villain.
+
+But I did not.
+
+=== Sarah Michelle Gellar and Summer Glau
+
+Instead I sent the actresses
+https://en.wikipedia.org/wiki/Sarah_Michelle_Gellar[Sarah Michelle
+Gellar], and https://en.wikipedia.org/wiki/Summer_Glau[Summer Glau], two
+actresses who seemed invaluable for that due to previous associations I
+had. While their acting careers were already on the brink of
+termination, and I depicted them positively, it likely may have sealed
+the envelope on both of their Hollywood careers. But it was probably the
+best for both, because the Hollywood professionals were already
+intimidated by them, and they could be more productive as non-acting
+non-professionals activists. Why?
+
+Because they are professionals. The better they played, the more they
+were scorned and maligned and given poorer roles by other jealous
+professional movie makers who were jealous of their competency and
+elevated perception by amateur fans who knew better. There is a whole
+https://twitter.com/shlomif/status/1174571159372935168[YouTube search
+about why Hollywood cannot cast X anymore] but it is the same old story.
+To paraphrase on an old
+https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series[Star Trek
+(the original series)] quote: ``It does not happen some of the time. It
+happens all the time.''
+
+But in the music industry it never happens. It will be very preposterous
+to ever see a YouTube feature ``Why no one listens to the songs of The
+Beatles anymore.''. Moreover, even though
+https://en.wikipedia.org/wiki/Christina_Grimmie[Christina Grimmie] was
+killed (in part due to her own mismanagement), and I was shocked and
+saddened by that, her songs are still popular. If I now rewrote my
+screenplay depicting her as a super intelligent and resourceful female,
+who kicks the ass of the NSA, people will think I am helping keep her
+legacy alive, and revere me for it.
+
+=== JK Rowling vs. Me
+
+I want to become the next big writer, but I want to remain writing for
+fun, publishing for free https://www.shlomifish.org/[on my site] under
+Creative Commons licences, and writing mostly fanfic or even real person
+fiction. People feel sorry for
+https://en.wikipedia.org/wiki/J._K._Rowling[JK Rowling] for being a
+professional, despite the fact that she is a millionaire.
+
+But people either love my work, respect me, or even think I’m
+preposterous or blasphemous (which
+http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/[indicates
+I may be right]). People would cringe at reading the Harry Potter books
+now (``TL;DR'') but many of my old
+https://www.shlomifish.org/humour/[stories, aphorisms or factoids] are
+still funny and fresh.
+
+https://twitter.com/EmmaWatson[Emma Watson] is currently the most highly
+paid actress in Hollywood, who rose to fame after having played Hermione
+in the Harry Potter films. It makes her comparable to
+https://en.wikipedia.org/wiki/Arnold_Schwarzenegger[Arnold
+Schwarzenegger] who also used to be the highest paid actor.
+
+But it’s not as if she is the new Arnold Schwarzenegger. Instead, Arnold
+Schwarzenegger will forever be remembered as the old Emma Fuckin’
+Watson!
+
+Poor Emma. Why do we feel sorry for her?
+
+Let me try it again. It’s not as if Taylor Swift is the new Madonna. In
+fact, Swift is the new Socrates! I’m sure Ms. Swift will approve of the
+new Taylor Swift factoid.
+
+It does not have to be this way.
+
+=== Actors are not replaceable
+
+Jewel Staite
+https://www.reddit.com/r/IAmA/comments/2e3t1f/jewel_staite_ama/cjvt8t9/[testified]
+that only she and Summer Glau could have played their characters on
+https://en.wikipedia.org/wiki/Firefly_%28TV_series%29[_Firefly_].
+Similarly I am more and more convinced that only Emma Watson can play
+Selina on https://www.shlomifish.org/humour/Selina-Mandrake/[my _Selina
+Mandrake - The Slayer_] screenplay but I’d like her to do it because she
+enjoys it and work for relatively little. It will be preposterous to
+assume that the late Christina Grimmie can ever be replaced by her
+YouTuber colleague https://en.wikipedia.org/wiki/Tiffany_Alvord[Tiffany
+Alvord] or even by Taylor Swift, despite the fact that all three were or
+are wonderful singers.
+
+Actors should become amateurs and work for fun on amateur films they
+like by amateur writers, who like me, write mostly fanfic and often
+crossovers and even real person fiction. As much as I like
+https://en.wikipedia.org/wiki/Kermit_the_Frog[Kermit the Frog] and
+https://en.wikipedia.org/wiki/Lucky_Luke[Lucky Luke], I wish Chuck
+Norris and Summer Glau to
+https://www.shlomifish.org/humour/Muppets-Show-TNI/Summer-Glau-and-Chuck-Norris.html[star
+along them], because the latter two are equally as awesome even if real.
+Just like the old show
+https://muppet.fandom.com/wiki/The_Muppet_Show[_The Muppet Show_]
+featured celebrity guest stars as themselves, and
+https://en.wikipedia.org/wiki/Sesame_Street[_Sesame Street_] has been
+doing it since its inception in 1969.
+
+In Ancient times, most philosophers were entertainers who collected
+donation money after their performances, and in fact were closer to
+today’s entertainers than our contemporary ivory tower professional
+philosophers. See:
+
+* https://www.youtube.com/watch?v=oBIxGjSHzF8[Mel Brooks’ Stand up
+philospher]
+* https://www.brainyquote.com/quotes/peter_ustinov_161259[Peter Ustinov:
+``If Botticelli were alive today he’d be working for Vogue'']
+* https://www.shlomifish.org/humour.html#if_ayn_rand_was_born_in_the_1990s[``If
+Ayn Rand was born in the 1990s she would be Christina Grimmie'']
+* http://esr.ibiblio.org/?p=4229[ESR’s post about why most classical
+music is a bunch of museum pieces]
+
+Chuck Norris and Bruce Lee are the last in the line of master
+professional warriors (believed to have passed through
+http://shlomifishswiki.branchable.com/Saladin_Style/[Saladin] himself -
+one of the greatest and most underrated
+https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#hacking-heroism[hackers]
+of all time). However, I believe that some of the newer amateur
+https://en.wikipedia.org/wiki/Mixed_martial_arts[Mixed Martial Arts
+(MMA)] fighters could have
+https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-english-play-to-lose[defeated
+even Bruce Lee].
+
+The better the former professional actors like Emma Watson, Sarah
+Michelle Gellar, Summer Glau, and Chuck Norris had become the more they
+were resented, hated, envied and mistreated. Until it hit their breaking
+point and they got angry and burst in rage against their mistreatment.
+Simply because they were professionals and worked for as much money as
+possible.
+
+It is possible that the reason why it seems like the
+https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/[Chuck Norris
+Facts] have made
+https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#Chuck_Norris[a
+comeback] recently, is because Norris has decided to play in roles he
+liked, even if he got paid little or not at all, or was paid after the
+fact. He became a happy and respected amateur. I won’t be surprised if
+he sometimes agrees to star in local school plays, or otherwise star in
+roles that may seem almost completely unlike his traditional Hollywood
+image.
+
+But for now I’ll write my real person fic on singers and YouTubers. I
+already have one more factoid about Taylor Swift and there likely will
+be more. I assure you that for a long time you won’t see a YouTube video
+``Why people won’t listen to Taylor Swift’s songs any more?'' Poor
+Taylor! I’m sure she won’t survive reading this new Taylor Swift
+Factoid, and sue me immediately.
+
+=== Emma Watson
+
+Emma Watson is no longer hirable in Hollywood despite the fact that all
+her films were commercial successes. And it’s because she too became far
+too powerful and competent for the incompetent and envious professional
+film makers and critics. But like great action heroes (or ``hackers'')
+of the past like David who fought Goliath, its modernisation in the
+https://www.youtube.com/watch?v=7YyBtMxZgQs[Indiana Jones gun scene] or
+the https://www.youtube.com/watch?v=9Eont_yEGZs[trailer for ``Hamlet''
+starring Arnold Schwarzenegger], she will not accept her fate, and bend
+and break the rules to carve her unique destiny.
+
+She will give Hollywood the fat finger and start producing fan
+screenplays (in any conceivable format - not only the overly strict, and
+pedantic Hollywood screenplay format, which is hard to get right) that
+she will sponsor out of her own pocket. They will depict her as the
+sexy, competent, bad-ass ass-kicker that she and her fans know she is
+rather than her traditional sheepish and recessive (but not quite)
+https://harrypotter.fandom.com/wiki/Hermione_Granger[Hermione Granger]
+image, and these videos will be available free of charge on YouTube.
+Many awesome male and female actor hackers who used to be household
+names but are now unhirable for becoming too competent, honest and
+intimidating, will follow suit.
+
+She might opt to make the material available first under relatively
+restrictive licences such as
+https://creativecommons.org/licenses/by-nc-sa/4.0/[CC-by-nc-sa] or even
+https://en.wikipedia.org/wiki/All_rights_reserved[All rights reserved]
+and ask to collect ``ransom'' money to make it
+https://creativecommons.org/licenses/by/4.0/[CC-by] or even
+https://creativecommons.org/choose/zero/[CC0 / Public Domain]. She might
+give access to large data files and high quality videos for a pay or
+sell high quality collectors sets (just like Nine Inch Nails did with
+https://en.wikipedia.org/wiki/Ghosts_I%E2%80%93IV[Ghosts I-IV]).
+
+There are other business models:
+
+* https://github.com/nayafia/lemonade-stand[nayafia/lemonade-stand: A
+handy guide to financial support for open source]
+* https://www.shlomifish.org/philosophy/computers/web/models-for-commerce/[``Alternative''
+Profitable Models for Web-based Commerce]
+
+As inconceivable as it seems, I think a
+https://en.wikipedia.org/wiki/Terminator_%28franchise%29[Terminator]
+spoof with Emma Watson as the evil terminator, and Arnold Schwarzenegger
+trying to protect from her has a great potential. And I already have
+written crossovers starring her in anything from an
+https://www.shlomifish.org/humour/bits/Emma-Watson-applying-for-a-software-dev-job/[attack
+of the software industry’s hiring process]; to a
+https://www.shlomifish.org/humour/Muppets-Show-TNI/Harry-Potter.html[crossover]
+of Harry Potter, Sesame Street and other sources of inspiration ; as
+well as naturally
+https://www.shlomifish.org/humour/Selina-Mandrake/cast.html[_Selina
+Mandrake_] which is a self-concious parody of
+https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer[_Buffy_], mashed
+up with Judaism and Israelism, as well as
+https://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine[Star Trek DS9],
+https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29[The Princess
+Bride], and https://en.wikipedia.org/wiki/The_Three_Musketeers[The Three
+Musketeers].
+
+Hollywood will soon be terminated as an inefficient and lazy oligopoly
+with relatively few remaining active franchises, few remaining able and
+competent actors who quickly will follow suit, and a flood of
+indistinguishable high budget comic books movies with incompetent and
+unattractive actors who didn’t have the sense and competence to become
+YouTubers, empty cinemas, and boring ``original'' films. Either that or
+it too will convert to the amateur and
+https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/[``open'']
+models, which like the signed artists labels of the
+https://en.wikipedia.org/wiki/Recording_Industry_Association_of_America[RIAA]
+mostly get out of the way (minus some censoring of YouTube content, both
+``copyright-violating'' and legitimate, which I hope and plan will stop
+soon).
+
+If Taylor Swift was able to
+https://www.youtube.com/watch?v=QcIy9NiNbmo[depict] her female friends
+and herself as bad-ass modern day female warriors, and still continue to
+outsell her shows, so should
+https://www.shlomifish.org/humour/bits/facts/Emma-Watson/[Emma Watson],
+or https://en.wikipedia.org/wiki/Sarah_Michelle_Gellar[Gellar], or
+https://www.shlomifish.org/humour/bits/facts/Summer-Glau/[Summer Glau],
+or https://en.wikipedia.org/wiki/Megan_Fox[Megan Fox], or
+https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/[Jennifer
+Lawrence], or
+https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/[Chuck
+Norris], or https://en.wikipedia.org/wiki/Tom_Cruise[Tom Cruise], or
+countless other awesome hackers who would prosper more as amateurs,
+rather than in the increasingly money-hungry, soul-sucking, and mind
+destroying, professional Hollywood.
+
+Hasta la vista baby! We will be back.
+
+More real person fan fiction. I guess I must never do that.
+
+=== Addendum: Commercial use of characters, concepts and worlds
+
+Before the current regime of copyright maximalism, copyright applied
+only to text and its printing and reprinting rights. Following a
+https://lists.ibiblio.org/pipermail/cc-community/2013-February/008338.html[discussion]
+on the Creative Commons mailing list I have placed
+https://www.shlomifish.org/meta/copyrights/#characters_concepts_plots_and_worlds[the
+copyrights of my characters, concepts, plot elements and worlds] under
+the CC-by licence.
+
+It is well known that most creators of commercial worlds effectively
+cannot and would rather not enforce noncommercial fan art (fiction,
+videos, games, etc.) of their worlds. But why not also allow such works
+to be sold commercially, be filmed, or otherwise make a profit?
+https://www.shlomifish.org/humour/fortunes/show.cgi?id=perl-petdance-thousand-flowers[*Let
+a Thousand Flowers Bloom!*]
+
+For example, following
+https://en.wikipedia.org/wiki/Terry_Pratchett[Terry Pratchett]’s death,
+his daughter https://en.wikipedia.org/wiki/Rhianna_Pratchett[Rhianna
+Pratchett] who is his inheritor, announced that she closes her father’s
+https://en.wikipedia.org/wiki/Discworld[Discworld] franchise for
+commercial and official sequels. But why not allow commercial and
+*unofficial* sequels, prequels, fanart, crossovers / mashups, etc.? Put
+the franchise under CC-by and tell the fans that they can build fan art
+above it as they please and *request* (not force - see
+https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/[Saladin-style])
+that a donation be made to the Pratchett’s estate, if there was a
+substantial profit.
+
+Yet another case of franchise copyrights abuse is that of
+https://www.theguardian.com/film/2018/jun/16/harry-potter-warner-bros-wizard-fan-festivals[``Harry
+rotters: Warner Bros cracks down on Potter fan festivals in US''] where
+Warner Bros (who bought the rights to the
+https://en.wikipedia.org/wiki/Harry_Potter[Harry Potter franchise])
+demanded that Harry Potter conventions / festivals not use any names
+from the books. I have no idea how this demand will be ``good for the
+people'', help make the world a better place, and/or
+https://www.jwz.org/doc/groupware.html[``help someone get laid'']. It
+just seems like a https://knowyourmeme.com/memes/wheatons-law[dick move]
+by some overzealous lawyers.
+
+And now for the other side of the coin, according to the English
+Wikipedia
+https://en.wikipedia.org/wiki/International_Talk_Like_a_Pirate_Day[International
+Talk Like a Pirate Day] (which is a fun holiday which I celebrate on the
+Internet, and have also created some
+https://www.shlomifish.org/humour/bits/facts/[related fan art]), had
+become successful in part because its copyrights or trademarks have not
+been enforced, which led to a ``viral'' growth.
+
+It is likely that creators of commercial franchises would benefit more
+by making their worlds, characters, and concepts unrestricted, rather
+than being territorial around them. Some of my Internet friends agree
+with me that https://en.wikipedia.org/wiki/Spaceballs[Spaceballs] is a
+better film than the
+https://en.wikipedia.org/wiki/Star_Wars_Trilogy[original Star Wars
+trilogy]. However, being a parody and therefore
+https://www.shlomifish.org/meta/FAQ/#why_fan_fic[fan art], it builds
+upon the original work and depends on it.
+
+We are all
+https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants[*standing
+on the shoulders of giants*], so why not let others stand on ours?
