@@ -13,6 +13,8 @@ cannot happen to singers.
 
 === The Technion vs. Project Euler
 
+image::./euler.webp[Portrait of Leonhard Euler]
+
 I joked that my opinion on
 https://en.wikipedia.org/wiki/Technion_%E2%80%93_Israel_Institute_of_Technology[The
 Technion], the University where I completed my B.Sc degree in Electrical
@@ -74,6 +76,8 @@ philosopher: don’t work ``hard''.
 
 === Taylor Swift as an amateur
 
+image::./taylor_swift.webp[Photo of Taylor Swift]
+
 In
 https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-gnu--think-big[this
 conversation], someone on freenode complained how much he disliked
@@ -112,6 +116,8 @@ But I did not.
 
 === Sarah Michelle Gellar and Summer Glau
 
+image::./summernsa-logo-small.webp[Logo of Summerschool at the NSA]
+
 Instead I sent the actresses
 https://en.wikipedia.org/wiki/Sarah_Michelle_Gellar[Sarah Michelle
 Gellar], and https://en.wikipedia.org/wiki/Summer_Glau[Summer Glau], two
@@ -145,6 +151,8 @@ who kicks the ass of the NSA, people will think I am helping keep her
 legacy alive, and revere me for it.
 
 === JK Rowling vs. Me
+
+image::./jk_rowling.webp[J. K. Rowling]
 
 I want to become the next big writer, but I want to remain writing for
 fun, publishing for free https://www.shlomifish.org/[on my site] under
@@ -180,6 +188,8 @@ new Taylor Swift factoid.
 It does not have to be this way.
 
 === Actors are not replaceable
+
+image::./aynrand2grimmie.webp[If Ayn Rand was born in the 1990s, she would be Christina Grimmie]
 
 Jewel Staite
 https://www.reddit.com/r/IAmA/comments/2e3t1f/jewel_staite_ama/cjvt8t9/[testified]
@@ -259,6 +269,8 @@ Taylor! I’m sure she won’t survive reading this new Taylor Swift
 Factoid, and sue me immediately.
 
 === Emma Watson
+
+image::./emma_watson_capt_img.webp[Emma Watson Captioned Image]
 
 Emma Watson is no longer hirable in Hollywood despite the fact that all
 her films were commercial successes. And it’s because she too became far
@@ -394,6 +406,8 @@ people'', help make the world a better place, and/or
 https://www.jwz.org/doc/groupware.html[``help someone get laid'']. It
 just seems like a https://knowyourmeme.com/memes/wheatons-law[dick move]
 by some overzealous lawyers.
+
+image::./Talk_Like_a_Pirate_Day.webp[Talk like a pirate day]
 
 And now for the other side of the coin, according to the English
 Wikipedia
