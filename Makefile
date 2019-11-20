@@ -5,6 +5,8 @@
 
 all: aynrand2grimmie.webp emma_watson_capt_img.webp euler.webp jk_rowling.webp taylor_swift.webp Talk_Like_a_Pirate_Day.webp
 
+all: epub html pdf
+
 Talk_Like_a_Pirate_Day.webp: Talk_Like_a_Pirate_Day.png
 	gm convert $< $@
 
@@ -34,6 +36,42 @@ aynrand2grimmie.webp: $(RAND2GRIMMIE_SRC)
 
 emma_watson_capt_img.webp: $(EMMA_WATSON_SRC)
 	gm convert $< -resize 300x $@
+
+SRC = README.asciidoc
+OUT_base = my-real-person-fan-fiction
+
+DOCBOOK5_XSL_STYLESHEETS_PATH := /usr/share/sgml/docbook/xsl-ns-stylesheets
+EPUB_SCRIPT = $(DOCBOOK5_XSL_STYLESHEETS_PATH)/epub/bin/dbtoepub
+DBTOEPUB = ruby $(EPUB_SCRIPT)
+EPUB = $(OUT_base).epub
+DOCBOOK5 = $(OUT_base).docbook5.xml
+PDF = $(OUT_base).pdf
+XHTML = $(OUT_base).xhtml
+
+html: $(XHTML)
+
+$(EPUB): $(DOCBOOK5)
+	$(DBTOEPUB) -o $@ $<
+
+$(XHTML): $(SRC)
+	asciidoctor --backend=xhtml5 -o $@ $<
+
+$(DOCBOOK5): $(SRC)
+	asciidoctor --backend=docbook5 -o $@ $<
+
+$(PDF): $(DOCBOOK5)
+	docmake -o $@ pdf $<
+
+epub: $(EPUB)
+
+pdf: $(PDF)
+
+clean:
+	rm -f $(DOCBOOK5) $(PDF) $(XHTML)
+
+test: all
+	prove tests/*.t
+
 
 # vim:ft=make
 #
