@@ -5,7 +5,8 @@ Shlomi Fish <shlomif@cpan.org>
 :Revision: $Id$
 
 [id="tldr"]
-== TL;DR Summary
+TL;DR Summary
+-------------
 
 I, https://www.shlomifish.org/[Shlomi Fish], writer, software developer,
 and amateur philosopher, will continue to write
@@ -17,7 +18,8 @@ note why seemingly Hollywood actors have been jinxed by that, and why it
 cannot happen to singers.
 
 [id="technion_vs_projeuler"]
-== The Technion vs. Project Euler
+The Technion vs. Project Euler
+------------------------------
 
 image::./euler.webp[Portrait of Leonhard Euler]
 
@@ -81,7 +83,8 @@ was right: if you want to succeed as a writer, entertainer, and amateur
 philosopher: don’t work "hard".
 
 [id="taylor_swift"]
-== Taylor Swift as an amateur
+Taylor Swift as an amateur
+--------------------------
 
 image::./taylor_swift.webp[Photo of Taylor Swift]
 
@@ -122,7 +125,8 @@ considered a villain.
 But I did not.
 
 [id="smg_and_sglau"]
-== Sarah Michelle Gellar and Summer Glau
+Sarah Michelle Gellar and Summer Glau
+-------------------------------------
 
 image::./summernsa-logo-small.webp[Logo of Summerschool at the NSA]
 
@@ -159,7 +163,8 @@ who kicks the ass of the NSA, people will think I am helping keep her
 legacy alive, and revere me for it.
 
 [id="jk_rowling"]
-== JK Rowling vs. Me
+JK Rowling vs. Me
+-----------------
 
 image::./jk_rowling.webp[J. K. Rowling]
 
@@ -197,7 +202,8 @@ new Taylor Swift factoid.
 It does not have to be this way.
 
 [id="actors_are_unique"]
-== Actors are not replaceable
+Actors are not replaceable
+--------------------------
 
 image::./aynrand2grimmie.webp[If Ayn Rand was born in the 1990s, she would be Christina Grimmie]
 
@@ -279,7 +285,8 @@ Taylor! I’m sure she won’t survive reading this new Taylor Swift
 Factoid, and sue me immediately.
 
 [id="emma_watson"]
-== Emma Watson
+Emma Watson
+-----------
 
 image::./emma_watson_capt_img.webp[Emma Watson Captioned Image]
 
@@ -377,7 +384,8 @@ Hasta la vista baby! We will be back.
 More real person fan fiction. I guess I must never do that.
 
 [id="commercial_fanfic"]
-== Addendum: Commercial use of characters, concepts and worlds
+Addendum: Commercial use of characters, concepts and worlds
+-----------------------------------------------------------
 
 Before the current regime of copyright maximalism, copyright applied
 only to text and its printing and reprinting rights. Following a
