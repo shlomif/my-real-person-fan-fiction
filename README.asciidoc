@@ -21,7 +21,7 @@ cannot happen to singers.
 The Technion vs. Project Euler
 ------------------------------
 
-image::./euler.webp[Portrait of Leonhard Euler]
+image::./Leonhard_Euler.jpg[Portrait of Leonhard Euler]
 
 I joked that my opinion on
 https://en.wikipedia.org/wiki/Technion_%E2%80%93_Israel_Institute_of_Technology[The
