@@ -44,7 +44,8 @@ paying I didn’t enjoy it, and only did it to get the diploma, so I can
 get a more lucrative job later on.
 
 Paying and getting paid made the experience worse. This is the curse of
-*professionalism*.
+*professionalism*, which used to mean doing something for money instead
+of because you love it and enjoy it.
 
 Many years later, I started solving problems at
 https://en.wikipedia.org/wiki/Project_Euler[Project Euler], one of many
@@ -59,7 +60,7 @@ but am otherwise very content.
 Despite not paying or expecting to be paid, or rather because of it, I
 was met with gratitude, respect and admiration by the people I helped on
 the https://freenode.net/[freenode chat network] with previous problems
-I solved or by announcing that I have solved a new one - also without
+I solved, or by announcing that I have solved a new one - also without
 paying.
 
 I was much happier as an *amateur* - someone who does what they do
@@ -294,7 +295,7 @@ Emma Watson is no longer hirable in Hollywood despite the fact that all
 her films were commercial successes. And it’s because she too became far
 too powerful and competent for the incompetent and envious professional
 film makers and critics. But like great action heroes (or "hackers")
-of the past like David who fought Goliath, its modernisation in the
+of the past like https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/#david_and_goliath[David who fought Goliath], its modernisation in the
 https://www.youtube.com/watch?v=7YyBtMxZgQs[Indiana Jones gun scene] or
 the https://www.youtube.com/watch?v=9Eont_yEGZs[trailer for "Hamlet"
 starring Arnold Schwarzenegger], she will not accept her fate, and bend
@@ -320,7 +321,7 @@ and ask to collect "ransom" money to make it
 https://creativecommons.org/licenses/by/4.0/[CC-by] or even
 https://creativecommons.org/choose/zero/[CC0 / Public Domain]. She might
 give access to large data files and high quality videos for a pay or
-sell high quality collectors sets (just like Nine Inch Nails did with
+sell exquisite collectors sets (just like Nine Inch Nails did with
 https://en.wikipedia.org/wiki/Ghosts_I%E2%80%93IV[Ghosts I-IV]).
 
 There are other business models:
@@ -368,11 +369,11 @@ https://www.youtube.com/watch?v=QcIy9NiNbmo[depict] her female friends
 and herself as bad-ass modern day female warriors, and still continue to
 outsell her shows, so should
 https://www.shlomifish.org/humour/bits/facts/Emma-Watson/[Emma Watson],
-or https://en.wikipedia.org/wiki/Sarah_Michelle_Gellar[Gellar], or
+or https://en.wikipedia.org/wiki/Sarah_Michelle_Gellar[Gellar],
 https://www.shlomifish.org/humour/bits/facts/Summer-Glau/[Summer Glau],
-or https://en.wikipedia.org/wiki/Megan_Fox[Megan Fox], or
+or https://en.wikipedia.org/wiki/Megan_Fox[Megan Fox],
 https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/[Jennifer
-Lawrence], or
+Lawrence],
 https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/[Chuck
 Norris], or https://en.wikipedia.org/wiki/Tom_Cruise[Tom Cruise], or
 countless other awesome hackers who would prosper more as amateurs,
@@ -407,7 +408,7 @@ his daughter https://en.wikipedia.org/wiki/Rhianna_Pratchett[Rhianna
 Pratchett] who is his inheritor, announced that she closes her father’s
 https://en.wikipedia.org/wiki/Discworld[Discworld] franchise for
 commercial and official sequels. But why not allow commercial and
-*unofficial* sequels, prequels, fanart, crossovers / mashups, etc.? Put
+*unofficial* sequels, prequels, fanart, forks, crossovers / mashups, etc.? Put
 the franchise under CC-by and tell the fans that they can build fan art
 above it as they please and *request* (not force - see
 https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/[Saladin-style])
