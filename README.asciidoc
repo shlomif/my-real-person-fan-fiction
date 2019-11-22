@@ -26,7 +26,7 @@ image::./euler.webp[Portrait of Leonhard Euler]
 I joked that my opinion on
 https://en.wikipedia.org/wiki/Technion_%E2%80%93_Israel_Institute_of_Technology[The
 Technion], the University where I completed my B.Sc degree in Electrical
-Engineering (= "EE") ,has become "untwitterable". The more I think
+Engineering (= "EE"), has become "untwitterable". The more I think
 about it, the more it seems that I think less highly of it, despite the
 fact that some people told me that it wasn’t a waste of time, and that
 I’ll fondly look back at my studies. Part of the problem was that I
@@ -296,7 +296,7 @@ her films were commercial successes. And it’s because she too became far
 too powerful and competent for the incompetent and envious professional
 film makers and critics. But like great action heroes (or "hackers")
 of the past like https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/#david_and_goliath[David who fought Goliath], its modernisation in the
-https://www.youtube.com/watch?v=7YyBtMxZgQs[Indiana Jones gun scene] or
+https://www.youtube.com/watch?v=7YyBtMxZgQs[Indiana Jones gun scene], or
 the https://www.youtube.com/watch?v=9Eont_yEGZs[trailer for "Hamlet"
 starring Arnold Schwarzenegger], she will not accept her fate, and bend
 and break the rules to carve her unique destiny.
@@ -333,7 +333,7 @@ Profitable Models for Web-based Commerce]
 
 As inconceivable as it seems, I think a
 https://en.wikipedia.org/wiki/Terminator_%28franchise%29[Terminator]
-spoof with Emma Watson as the evil terminator, and Arnold Schwarzenegger
+parody with Emma Watson as the evil terminator, and Arnold Schwarzenegger
 trying to protect from her has a great potential. And I already have
 written crossovers starring her in anything from an
 https://www.shlomifish.org/humour/bits/Emma-Watson-applying-for-a-software-dev-job/[attack
@@ -369,11 +369,11 @@ https://www.youtube.com/watch?v=QcIy9NiNbmo[depict] her female friends
 and herself as bad-ass modern day female warriors, and still continue to
 outsell her shows, so should
 https://www.shlomifish.org/humour/bits/facts/Emma-Watson/[Emma Watson],
-or https://en.wikipedia.org/wiki/Sarah_Michelle_Gellar[Gellar],
+or https://en.wikipedia.org/wiki/Sarah_Michelle_Gellar[Gellar], or
 https://www.shlomifish.org/humour/bits/facts/Summer-Glau/[Summer Glau],
-or https://en.wikipedia.org/wiki/Megan_Fox[Megan Fox],
+or https://en.wikipedia.org/wiki/Megan_Fox[Megan Fox], or
 https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/[Jennifer
-Lawrence],
+Lawrence], or
 https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/[Chuck
 Norris], or https://en.wikipedia.org/wiki/Tom_Cruise[Tom Cruise], or
 countless other awesome hackers who would prosper more as amateurs,
@@ -405,7 +405,7 @@ https://www.shlomifish.org/humour/fortunes/show.cgi?id=perl-petdance-thousand-fl
 For example, following
 https://en.wikipedia.org/wiki/Terry_Pratchett[Terry Pratchett]’s death,
 his daughter https://en.wikipedia.org/wiki/Rhianna_Pratchett[Rhianna
-Pratchett] who is his inheritor, announced that she closes her father’s
+Pratchett], who is his inheritor, announced that she closes her father’s
 https://en.wikipedia.org/wiki/Discworld[Discworld] franchise for
 commercial and official sequels. But why not allow commercial and
 *unofficial* sequels, prequels, fanart, forks, crossovers / mashups, etc.? Put
@@ -429,7 +429,7 @@ by some overzealous lawyers.
 image::./Talk_Like_a_Pirate_Day.webp[Talk like a pirate day]
 
 And now for the other side of the coin, according to the English
-Wikipedia
+Wikipedia,
 https://en.wikipedia.org/wiki/International_Talk_Like_a_Pirate_Day[International
 Talk Like a Pirate Day] (which is a fun holiday which I celebrate on the
 Internet, and have also created some
