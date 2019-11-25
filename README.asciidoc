@@ -40,7 +40,7 @@ destroyed my self-esteem, harmed my health, made me maniacal, put me on
 psychiatric drugs which
 https://github.com/shlomif/why-openly-bipolar-people-should-not-be-medicated[harmed
 my health] further, and taught me little of lasting value. Despite
-paying I didn’t enjoy it, and only did it to get the diploma, so I can
+paying, I didn’t enjoy it, and only did it to get the diploma, so I can
 get a more lucrative job later on.
 
 Paying and getting paid made the experience worse. This is the curse of
@@ -71,8 +71,8 @@ learn from open source"] .
 Lately, by inspiration from a correspondent on an Internet chat who
 mentioned someone’s one line Résumé, I wrote my
 https://www.shlomifish.org/me/resumes/Shlomi-Fish-Resume-as-Software-Dev.html["I’m
-a Rock Star software developer" Résumé] where I included only amateur
-achievements, including Project Euler, and excluded the Technion. At
+a Rock Star software developer" Résumé]. I included only amateur
+achievements there, including Project Euler, and excluded the Technion. At
 first I thought it was because EE B.Sc. degrees are quite common and so
 not notable enough. But then I realised something else: I wasn’t proud
 of my EE degree. These were my most vexing, toxic, soul destroying,
@@ -82,6 +82,18 @@ money.
 That junkie stand up comedian whom I saw at a captioned twitter video
 was right: if you want to succeed as a writer, entertainer, and amateur
 philosopher: don’t work "hard".
+
+[id="professionalism_in_20thC"]
+Professionalism
+~~~~~~~~~~~~~~
+
+Professionalism seemed the way to go throughout a large part of the 20th
+century. Frankly, the 20th century was not too bad: cities became self-sustaining,
+life expectancy grew, women became more empowered, https://en.wikipedia.org/wiki/Actor[acting] became a honourable profession, there were many technological advances, there were philosophical and ideological advances (including by
+https://www.shlomifish.org/humour.html#pbride_philosophers[cutting edge entertainers who were held in contempt] ).
+
+Nevertheless, during the 21st century, we need to
+https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#amateur-modelled-commerce[rethink professionalism in the context of Capitalism] because everyone agrees that people who do creative works because they enjoy doing that (= amateurs) can produce better results than those who do it only for money.
 
 [id="taylor_swift"]
 Taylor Swift as an amateur
