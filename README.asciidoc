@@ -50,7 +50,7 @@ of because you love it and enjoy it.
 Many years later, I started solving problems at
 https://en.wikipedia.org/wiki/Project_Euler[Project Euler], one of many
 https://github.com/EbookFoundation/free-programming-books/blob/master/problem-sets-competitive-programming.md[competitive
-programming sites]. Since I had quite a bit of math and programming
+programming sites]. Since I had quite a bit of maths and programming
 background, I did quite well at it, and have solved over 300 problems. I
 didn’t have to pay, but I voluntarily paid a small donation. I am still
 unhappy by the somewhat degraded
