@@ -93,7 +93,10 @@ life expectancy grew, women became more empowered, https://en.wikipedia.org/wiki
 https://www.shlomifish.org/humour.html#pbride_philosophers[cutting edge entertainers who were held in contempt] ).
 
 Nevertheless, during the 21st century, we need to
-https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#amateur-modelled-commerce[rethink professionalism in the context of Capitalism] because everyone agrees that people who do creative works because they enjoy doing that (= amateurs) can produce better results than those who do it only for money.
+https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#amateur-modelled-commerce[rethink
+professionalism in the context of Capitalism] because everyone agrees that
+people who do creative works because they enjoy doing that (= amateurs) can
+produce better results than those who do it only for money.
 
 [id="taylor_swift"]
 Taylor Swift as an amateur
@@ -295,7 +298,7 @@ already have one more factoid about Taylor Swift and there likely will
 be more. I assure you that for a long time you won’t see a YouTube video
 "Why people won’t listen to Taylor Swift’s songs any more?". Poor
 Taylor! I’m sure she won’t survive reading this new Taylor Swift
-Factoid, and sue me immediately.
+Factoid, and sue me immediately. (That was irony.)
 
 [id="emma_watson"]
 Emma Watson
@@ -395,6 +398,38 @@ destroying, professional Hollywood.
 Hasta la vista baby! We will be back.
 
 More real person fan fiction. I guess I must never do that.
+
+[id="rpf_in_conclusion"]
+Real Person Fiction in Conclusion
+---------------------------------
+
+Real Person Fiction is a time honoured tradition which was
+already practiced by the Judean https://en.wikipedia.org/wiki/Nevi%27im[Nevi'im]
+(a word which was somewhat mistranslated as "prophets") who
+spoke prophecies of their past and contemporary fellow men
+(both positively but often negatively), and by the ancient Greek
+scholar (e.g.: https://en.wikipedia.org/wiki/Plato[Plato]'s
+dialogues with his mentor Socrates are clearly RPF). It
+continued to be practiced throughout history, with relaltively
+few moral obstacles until in the 20th century, fan fiction and
+RPF started being held in contempt due to copyright maximalism.
+
+I now realise that fan fiction and especially real person fiction can also be
+used to help combat the flood of new characters and names that plagues many
+more "original" stories. People generally have a rough concept of what
+characters such as Chuck Norris, Emma Watson,
+https://en.wikipedia.org/wiki/Richard_Stallman[Richard Stallman]
+https://en.wikipedia.org/wiki/Moses[Moses], or
+https://en.wikipedia.org/wiki/Miss_Piggy[Miss Piggy], are like and generally
+can better remember them because they thought about them a lot.
+
+The reason some people criticise RPF writers of being villains is
+due to the fact famous actors have been facing increasingly harsh
+treatment due to the professional (= working for money), non "open",
+and "original" nature of Hollywood that has been declining in
+effectiveness following the https://en.wikipedia.org/wiki/Open_source[open source] and https://en.wikipedia.org/wiki/Open_content[open content]
+trends. (Whether they are fully "free/open" or only partly so
+- see https://features.slashdot.org/story/13/01/06/163248/richard-stallman-answers-your-questions[Richard Stallman’s opinion about the Creative Commons licences].)
 
 [id="commercial_fanfic"]
 Addendum: Commercial use of characters, concepts and worlds
