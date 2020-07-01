@@ -220,7 +220,7 @@ It does not have to be this way.
 Actors are not replaceable
 --------------------------
 
-image::./aynrand2grimmie.webp[If Ayn Rand was born in the 1990s, she would be Christina Grimmie]
+image::./aynrand2grimmie.webp[caption="If Ayn Rand was born in the 1990s, she would be Christina Grimmie"]
 
 Jewel Staite
 https://www.reddit.com/r/IAmA/comments/2e3t1f/jewel_staite_ama/cjvt8t9/[testified]
